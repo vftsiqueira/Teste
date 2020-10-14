@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+#container {
+    width: 88%;
+    height: 100%;
+    margin: 0 auto;
+    font-size: 19px;
+}
+
+.cabecalho {
+    width: 100%;
+    display: inline-block;
+}
+
+
+.menu {
+    width: 100%;
+    margin: 0 0 15px 0;
+    text-align: center;
+}
+
+
+.menu :hover {
+    text-transform: uppercase;
+    background-color: rgba(39, 39, 39);
+    color: rgb(18, 214, 0);
+
+}
+
+.lin {
+    width: auto;
+    height: auto;
+    padding: 12px 20px 12px 20px;
+    border-radius: 2px 2px 5px 5px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    list-style: none;
+    border: 3px solid rgba(0, 0, 0, 0.4);
+
+}
+
+.lin a {
+    padding: 12px 20px 12px 20px;
+    position: relative;
+    color: rgba(0, 0, 0, 0.7);
+    text-decoration: none;
+    border-style: none;
+
+}
+
+li:hover {
+    border: 3px solid rgb(18, 214, 0);
+}
+
+/*Tabela de tarefas semanais*/
+
+#tabela {
+ margin: 35px 0 0 8%;
+ font-size: 18px;
+}
+
+caption {
+    border: 3px solid rgb(18, 214, 0);
+    padding: 8px 0 8px 0;
+    color: rgb(18, 214, 0);
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#tbl {
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+ }
+
+#tbl td {
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*Página de Todos os dias da semana*/
+
+/*menu de segunda feira*/
+
+#principalmon {
+    width: 88%;
+    height: 100%;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+#mondey {
+    width: 100%;
+}
+
+#tabelasegunda {
+    width: 100%;
+}
+
+/*menu e tertça feira*/
+
+#principaltue {
+    width: 88%;
+    height: 100%;
+    margin: 0 auto;
+    font-size: 19px;
+}
+
+#tuesday {
+    width: 100%;
+}
+
+#tabelaterca {
+    display: inline-flex;
+}
+
+
+label {
+    cursor: default;
+}
+
+/*Português*/
+#cima {
+    width: 100%;
+    margin: 0;
+    display: inline-flex;
+}
+
+.tblsemanalpt {
+    margin: 2% 1% 0 0;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+
+}
+
+.tblsemanalpt td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+
+/*Matemática*/
+.tblsemanalmt {
+    margin:  2% 0 0 0;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanalmt td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*História*/
+.tblsemanalht {
+    margin:  2% 0 0 1%;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanalht td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*Geografia*/
+
+#meio{
+    width: 100%;
+    display: inline-flex;
+}
+
+.tblsemanalgra {
+    margin:  2% 0 0 0;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanalgra td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*Química*/
+.tblsemanalqm {
+    margin:  2% 0 0 1%;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanalqm td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*Física*/
+
+.tblsemanalfs {
+    margin:  2% 0 0 1%;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanalfs td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*Sociologia*/
+
+#baixo{
+    width: 100%;
+    display: inline-flex;
+}
+
+.tblsemanalsol {
+    margin:  2% 0 0 0;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanalsol td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*Filosofia*/
+
+.tblsemanalfil {
+    margin:  2% 0 0 1%;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanalfil td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+/*Educação de física*/
+
+.tblsemanaled {
+    margin:  2% 0 0 1%;
+    border-spacing: 0px;
+    text-align: center;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    background-color: white;
+}
+
+.tblsemanaled td {
+    padding: 15px 10px 10px 0;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
