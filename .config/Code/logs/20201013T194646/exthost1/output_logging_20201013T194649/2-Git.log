@@ -1,0 +1,18 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vftsiqueira
+> git status -z -u
+> git show --textconv :.zshrc
+> git ls-files --stage -- /home/vftsiqueira/.zshrc
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.zshrc
+> git ls-files --stage -- /home/vftsiqueira/.zshrc

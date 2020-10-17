@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Nautilus.desktop" score="69" last-seen="1602705281"/>
+    <application id="org.gnome.font-viewer.desktop" score="1" last-seen="1602631406"/>
+    <application id="org.gnome.FileRoller.desktop" score="20" last-seen="1602623465"/>
+    <application id="google-chrome.desktop" score="18252" last-seen="1602937622"/>
+    <application id="org.gnome.Terminal.desktop" score="2" last-seen="1602861103"/>
+    <application id="org.gnome.gedit.desktop" score="63" last-seen="1602861785"/>
+    <application id="zoom-client_zoom-client.desktop" score="509" last-seen="1602676719"/>
+    <application id="hyper.desktop" score="14409" last-seen="1602937621"/>
+    <application id="gimp.desktop" score="226" last-seen="1602859982"/>
+    <application id="update-manager.desktop" score="41" last-seen="1602333662"/>
+    <application id="code.desktop" score="50" last-seen="1602631432"/>
+  </context>
+</application-state>

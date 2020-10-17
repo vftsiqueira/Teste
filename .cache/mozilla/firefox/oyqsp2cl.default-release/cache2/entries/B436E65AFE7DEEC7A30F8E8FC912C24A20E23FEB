@@ -1,0 +1,316 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## These messages are used as headings in the recommendation doorhanger
+
+cfr-doorhanger-extension-heading = Extensão Recomendada
+cfr-doorhanger-feature-heading = Recurso recomendado
+cfr-doorhanger-pintab-heading = Experimente isso: Fixar aba
+
+##
+
+cfr-doorhanger-extension-sumo-link =
+    .tooltiptext = Por que estou vendo isso
+
+cfr-doorhanger-extension-cancel-button = Agora não
+    .accesskey = n
+
+cfr-doorhanger-extension-ok-button = Adicionar agora
+    .accesskey = A
+cfr-doorhanger-pintab-ok-button = Fixar esta aba
+    .accesskey = x
+
+cfr-doorhanger-extension-manage-settings-button = Gerenciar configuração de recomendações
+    .accesskey = m
+
+cfr-doorhanger-extension-never-show-recommendation = Não mostrar esta recomendação
+    .accesskey = s
+
+cfr-doorhanger-extension-learn-more-link = Saiba mais
+
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = por { $name }
+
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = Recomendação
+cfr-doorhanger-extension-notification2 = Recomendação
+    .tooltiptext = Recomendação de extensão
+    .a11y-announcement = Disponível uma recomendação de extensão
+
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Recomendação
+    .tooltiptext = Recomendação de funcionalidade
+    .a11y-announcement = Disponível uma recomendação de funcionalidade
+
+## Add-on statistics
+## These strings are used to display the total number of
+## users and rating for an add-on. They are shown next to each other.
+
+# Variables:
+#   $total (Number) - The rating of the add-on from 1 to 5
+cfr-doorhanger-extension-rating =
+    .tooltiptext =
+        { $total ->
+            [one] { $total } estrela
+           *[other] { $total } estrelas
+        }
+# Variables:
+#   $total (Number) - The total number of users using the add-on
+cfr-doorhanger-extension-total-users =
+    { $total ->
+        [one] { $total } usuário
+       *[other] { $total } usuários
+    }
+
+cfr-doorhanger-pintab-description = Tenha acesso fácil aos sites que você mais usa. Mantenha sites abertos em abas (mesmo quando reiniciar).
+
+## These messages are steps on how to use the feature and are shown together.
+
+cfr-doorhanger-pintab-step1 = <b>Clique com o botão direito</b> na aba que deseja fixar.
+cfr-doorhanger-pintab-step2 = Selecione <b>Fixar aba</b> no menu.
+cfr-doorhanger-pintab-step3 = Se o site tiver uma atualização, aparece um ponto azul na aba fixada.
+
+cfr-doorhanger-pintab-animation-pause = Pausar
+cfr-doorhanger-pintab-animation-resume = Continuar
+
+
+## Firefox Accounts Message
+
+cfr-doorhanger-bookmark-fxa-header = Sincronize seus favoritos em qualquer lugar.
+cfr-doorhanger-bookmark-fxa-body = Ótimo achado! Agora não fique sem este favorito nos seus dispositivos móveis. Comece com uma { -fxaccount-brand-name }.
+cfr-doorhanger-bookmark-fxa-link-text = Sincronizar favoritos agora…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Botão fechar
+    .title = Fechar
+
+## Protections panel
+
+cfr-protections-panel-header = Navegue sem ser seguido
+cfr-protections-panel-body = Mantenha seus dados consigo. O { -brand-short-name } lhe protege de muitos dos rastreadores mais comuns que seguem o que você faz online.
+cfr-protections-panel-link-text = Saiba mais
+
+## What's New toolbar button and panel
+
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Novo recurso:
+
+cfr-whatsnew-button =
+    .label = Novidades
+    .tooltiptext = Novidades
+
+cfr-whatsnew-panel-header = Novidades
+
+cfr-whatsnew-release-notes-link-text = Ler as notas da versão
+
+cfr-whatsnew-fx70-title = O { -brand-short-name } agora luta mais intensamente por sua privacidade
+cfr-whatsnew-fx70-body =
+    A última atualização aprimora o recurso de proteção contra rastreamento
+    e torna mais fácil que nunca criar senhas seguras para cada site.
+
+cfr-whatsnew-tracking-protect-title = Proteja-se de rastreadores
+cfr-whatsnew-tracking-protect-body = O { -brand-short-name } bloqueia muitos rastreadores comuns, entre sites e de mídias sociais, que seguem o que você faz online.
+cfr-whatsnew-tracking-protect-link-text = Veja seu relatório
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Rastreador bloqueado
+       *[other] Rastreadores bloqueados
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Ver relatório
+
+cfr-whatsnew-lockwise-backup-title = Guarde uma cópia de suas senhas
+cfr-whatsnew-lockwise-backup-body = Gere senhas seguras que você pode acessar em qualquer dispositivo.
+cfr-whatsnew-lockwise-backup-link-text = Ativar cópias de segurança
+
+cfr-whatsnew-lockwise-take-title = Leve suas senhas com você
+cfr-whatsnew-lockwise-take-body = O aplicativo de celular { -lockwise-brand-short-name } permite acessar com segurança em qualquer lugar suas senhas guardadas.
+cfr-whatsnew-lockwise-take-link-text = Instalar o aplicativo
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Digite menos, encontre mais usando a barra de endereços
+cfr-whatsnew-searchbar-body-topsites = Agora basta selecionar a barra de endereços e aparecem links para seus sites preferidos.
+cfr-whatsnew-searchbar-icon-alt-text = Ícone da lente de aumento
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-header = Assista vídeos enquanto navega
+cfr-whatsnew-pip-body = A função picture-in-picture exibe vídeos em uma janela flutuante que você posiciona onde quiser, assim pode assistir enquanto usa outras abas.
+cfr-whatsnew-pip-cta = Saiba mais
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-header = Menos notificações incômodas de sites
+cfr-whatsnew-permission-prompt-body = O { -brand-shorter-name } agora impede que sites solicitem automaticamente exibir notificações.
+cfr-whatsnew-permission-prompt-cta = Saiba mais
+
+## Fingerprinter Counter
+
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Fingerprinter bloqueado
+       *[other] Fingerprinters bloqueados
+    }
+cfr-whatsnew-fingerprinter-counter-body = O { -brand-shorter-name } bloqueia muitos rastreadores de identidade digital, que coletam secretamente informações sobre seu dispositivo e suas ações, traçando um perfil seu para mostrar propaganda direcionada.
+
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Fingerprinters
+cfr-whatsnew-fingerprinter-counter-body-alt = O { -brand-shorter-name } consegue bloquear rastreadores de identidade digital, que coletam secretamente informações sobre seu dispositivo e suas ações, traçando um perfil seu para mostrar propaganda direcionada.
+
+## Bookmark Sync
+
+cfr-doorhanger-sync-bookmarks-header = Tenha este favorito em seu celular
+cfr-doorhanger-sync-bookmarks-body = Tenha seus favoritos, senhas, histórico e muito mais em qualquer lugar que acesse sua conta no { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Ativar o { -sync-brand-short-name }
+    .accesskey = t
+
+## Login Sync
+
+cfr-doorhanger-sync-logins-header = Nunca perca uma senha novamente
+cfr-doorhanger-sync-logins-body = Armazene e sincronize suas senhas com segurança em todos os seus dispositivos.
+cfr-doorhanger-sync-logins-ok-button = Ativar o { -sync-brand-short-name }
+    .accesskey = A
+
+## Send Tab
+
+cfr-doorhanger-send-tab-header = Leia isso em movimento
+cfr-doorhanger-send-tab-recipe-header = Leve esta receita para a cozinha
+cfr-doorhanger-send-tab-body = Enviar aba permite compartilhar este link facilmente para seu celular, ou onde quer que acesse sua conta no { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Experimente enviar aba
+    .accesskey = E
+
+## Firefox Send
+
+cfr-doorhanger-firefox-send-header = Compartilhe este PDF com segurança
+cfr-doorhanger-firefox-send-body = Mantenha seus documentos sensíveis a salvo de intrometidos, com criptografia de ponta a ponta e um link que desaparece quando você terminar de usar.
+cfr-doorhanger-firefox-send-ok-button = Experimente o { -send-brand-name }
+    .accesskey = E
+
+## Social Tracking Protection
+
+cfr-doorhanger-socialtracking-ok-button = Ver proteções
+    .accesskey = p
+cfr-doorhanger-socialtracking-close-button = Fechar
+    .accesskey = F
+cfr-doorhanger-socialtracking-dont-show-again = Não mostrar mais mensagens como esta
+    .accesskey = N
+cfr-doorhanger-socialtracking-heading = O { -brand-short-name } impediu que uma rede social rastreasse você aqui
+cfr-doorhanger-socialtracking-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia rastreadores comuns de mídias sociais, limitando quantos dados conseguem coletar sobre o que você faz online.
+cfr-doorhanger-fingerprinters-heading = O { -brand-short-name } bloqueou um fingerprinter nesta página
+cfr-doorhanger-fingerprinters-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia fingerprinters, que coletam elementos de informação unicamente identificáveis sobre seu dispositivo para rastrear você.
+cfr-doorhanger-cryptominers-heading = O { -brand-short-name } bloqueou um criptominerador nesta página
+cfr-doorhanger-cryptominers-description = Sua privacidade é importante. Agora o { -brand-short-name } bloqueia criptomineradores, que usam o poder computacional do seu sistema para minerar moedas digitais.
+
+## Enhanced Tracking Protection Milestones
+
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] O { -brand-short-name } bloqueou mais de <b>{ $blockedCount }</b> rastreadores desde { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Ver tudo
+    .accesskey = V
+
+cfr-doorhanger-milestone-close-button = Fechar
+    .accesskey = F
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Crie senhas seguras facilmente
+cfr-whatsnew-lockwise-body = É difícil pensar em senhas únicas e seguras para cada conta. Ao criar uma senha, selecione o campo de senha para usar uma senha segura, gerada automaticamente pelo { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Ícone do { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Receba alertas em caso de senhas vulneráveis
+cfr-whatsnew-passwords-body = Os hackers sabem que as pessoas reusam as mesmas senhas. Caso tenha usado a mesma senha em vários sites, e algum desses sites tenha se envolvido em um vazamento de dados, aparece um alerta no { -lockwise-brand-short-name } avisando para alterar sua senha nesses sites.
+cfr-whatsnew-passwords-icon-alt = Ícone de chave de senha vulnerável
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Use picture-in-picture em tela inteira
+cfr-whatsnew-pip-fullscreen-body = Após transferir um vídeo para uma janela flutuante, agora você pode dar um duplo-clique nessa janela para exibir em tela inteira.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ícone de picture-in-picture
+
+## Protections Dashboard message
+
+cfr-whatsnew-protections-header = Visão geral das proteções
+cfr-whatsnew-protections-body = O painel de proteções inclui relatórios concisos sobre vazamentos de dados e gerenciamento de senhas. Agora você pode acompanhar quantos vazamentos já resolveu e ver se alguma de suas senhas salvas pode ter sido exposta em um vazamento de dados.
+cfr-whatsnew-protections-cta-link = Ver painel de proteções
+cfr-whatsnew-protections-icon-alt = Ícone de escudo
+
+## Better PDF message
+
+cfr-whatsnew-better-pdf-header = Melhor experiência de uso em PDF
+cfr-whatsnew-better-pdf-body = Documentos PDF agora são abertos diretamente no { -brand-short-name }, mantendo seu fluxo de trabalho facilmente ao alcance.
+
+## DOH Message
+
+cfr-doorhanger-doh-body = Sua privacidade é importante. Agora o { -brand-short-name } roteia com segurança suas solicitações de DNS, sempre que possível, para um serviço parceiro para proteger você enquanto navega.
+cfr-doorhanger-doh-header = Pesquisas de DNS mais seguras e criptografadas
+cfr-doorhanger-doh-primary-button = OK, entendi
+    .accesskey = O
+cfr-doorhanger-doh-secondary-button = Desativar
+    .accesskey = D
+
+## What's new: Cookies message
+
+cfr-whatsnew-clear-cookies-header = Proteção automática contra táticas furtivas de rastreamento
+cfr-whatsnew-clear-cookies-body = Alguns rastreadores redirecionam para outros sites que secretamente criam cookies. O { -brand-short-name } agora limpa automaticamente esses cookies para que você não possa ser seguido.
+cfr-whatsnew-clear-cookies-image-alt = Ilustração de cookie bloqueado
+
+## External string for cfr-doorhanger-fission-body
+cfr-doorhanger-fission-body = { -brand-short-name } has enabled an experimental feature Fission (site isolation) for you. By isolating each site into a separate process, Fission provides an additional layer of security for you and the websites you visit.
+
+## External string for cfr-doorhanger-fission-header
+cfr-doorhanger-fission-header = Site Isolation
+
+## External string for cfr-doorhanger-fission-primary-button
+cfr-doorhanger-fission-primary-button = OK, Got it
+  .accesskey = O
+
+## External string for cfr-doorhanger-fission-secondary-button
+cfr-doorhanger-fission-secondary-button = Learn more
+  .accesskey = L
+2��P�      _x��_x��B-/�_y_       :https://firefox-settings-attachments.cdn.mozilla.net/main-workspace/ms-language-packs/27071b38-df96-4742-9d29-78c5b0cdd26d.ftl strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAAAAgAAAAAAAAAAAAAAAAAAAAEANQFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAVUMIIFUDCCBDigAwIBAgIQDafifNNQcWqG+x2GykJP8TANBgkqhkiG9w0BAQsFADBNMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5EaWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTcxMjA1MDAwMDAwWhcNMjAxMjA5MTIwMDAwWjCBjTELMAkGA1UEBhMCVVMxEzARBgNVBAgTCkNhbGlmb3JuaWExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxHDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRpb24xFzAVBgNVBAsTDkNsb3VkIFNlcnZpY2VzMRowGAYDVQQDDBEqLmNkbi5tb3ppbGxhLm5ldDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANrqsPQq7pl7vC0/ZJuqYmc3joBOfb/9Nn+35MpJe+wotZYhuGmk+vX7XLgQnHU+mFqzoWWXOYHSphXIyW9juk5N3eyJAg/J5JN7VbPZNJrO9EHxIGIBnq3l6vYEQF6zbSaNizNBRpd2KxRyc0enI/EtwlbbJct4pqnkL4PasXL+lufwgCCuyvn26Ng/ehSGlNxdrwc401Zh48NRskSUgUDeqKZqf35j1Ju6ex8o0ohNw3FhnntseHHPXdfaa1WAQ3I7D9bRNYC8C679awlQObIuKTsSsNTI7ZT8bKlb4D/qUR1sNyhG4hn0K71IQuAMTMn59ncGFstC6eULm9Gpv18CAwEAAaOCAekwggHlMB8GA1UdIwQYMBaAFA+AYRyCMWHVLyjnjUY4tCzhxtniMB0GA1UdDgQWBBSCYmXuSUmjaVSbX787l8ngIhYrWDAtBgNVHREEJjAkghEqLmNkbi5tb3ppbGxhLm5ldIIPY2RuLm1vemlsbGEubmV0MA4GA1UdDwEB/wQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwawYDVR0fBGQwYjAvoC2gK4YpaHR0cDovL2NybDMuZGlnaWNlcnQuY29tL3NzY2Etc2hhMi1nNi5jcmwwL6AtoCuGKWh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMEwGA1UdIARFMEMwNwYJYIZIAYb9bAEBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LmRpZ2ljZXJ0LmNvbS9DUFMwCAYGZ4EMAQICMHwGCCsGAQUFBwEBBHAwbjAkBggrBgEFBQcwAYYYaHR0cDovL29jc3AuZGlnaWNlcnQuY29tMEYGCCsGAQUFBzAChjpodHRwOi8vY2FjZXJ0cy5kaWdpY2VydC5jb20vRGlnaUNlcnRTSEEyU2VjdXJlU2VydmVyQ0EuY3J0MAwGA1UdEwEB/wQCMAAwDQYJKoZIhvcNAQELBQADggEBABwAVYXlIiNk2y4FAdsQBS37RXams+PpQ1ZhN4U737I5sW36KJEulXPVxw+aPvXivwLIcW8BM44e2BSV8kq4hcvTNwddvIshFcJddwloB8lE13XW6CkRnNlWphjrfFn5rt5zgrmOuNrg/JNqiYsp4GvsH13CZCiWPmwr6dT/fOqVhcMitLode0jF3yPuMYUxQXJXLRgwH626rfLXfyMfX6X1Rc1rz3FhFMz2HJbVmrZGaM9AfwUDf0jM8sjxLefg4V6MLUUc8I3zNecOe+Bo0GWOomqKCCaCAP9Y4/VLhxWTqZ/rXx7iNW5PSd271w1uR0eAIfYMu1xCNWLCEB8ZjiQTAgAEAAAAAAEBAAAAAAAABngyNTUxOQAAAA5SU0EtUFNTLVNIQTI1NgADZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAFVDCCBVAwggQ4oAMCAQICEA2n4nzTUHFqhvsdhspCT/EwDQYJKoZIhvcNAQELBQAwTTELMAkGA1UEBhMCVVMxFTATBgNVBAoTDERpZ2lDZXJ0IEluYzEnMCUGA1UEAxMeRGlnaUNlcnQgU0hBMiBTZWN1cmUgU2VydmVyIENBMB4XDTE3MTIwNTAwMDAwMFoXDTIwMTIwOTEyMDAwMFowgY0xCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMRcwFQYDVQQLEw5DbG91ZCBTZXJ2aWNlczEaMBgGA1UEAwwRKi5jZG4ubW96aWxsYS5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDa6rD0Ku6Ze7wtP2SbqmJnN46ATn2//TZ/t+TKSXvsKLWWIbhppPr1+1y4EJx1Pphas6FllzmB0qYVyMlvY7pOTd3siQIPyeSTe1Wz2TSazvRB8SBiAZ6t5er2BEBes20mjYszQUaXdisUcnNHpyPxLcJW2yXLeKap5C+D2rFy/pbn8IAgrsr59ujYP3oUhpTcXa8HONNWYePDUbJElIFA3qiman9+Y9SbunsfKNKITcNxYZ57bHhxz13X2mtVgENyOw/W0TWAvAuu/WsJUDmyLik7ErDUyO2U/GypW+A/6lEdbDcoRuIZ9Cu9SELgDEzJ+fZ3BhbLQunlC5vRqb9fAgMBAAGjggHpMIIB5TAfBgNVHSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQUgmJl7klJo2lUm1+/O5fJ4CIWK1gwLQYDVR0RBCYwJIIRKi5jZG4ubW96aWxsYS5uZXSCD2Nkbi5tb3ppbGxhLm5ldDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzYuY3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc2LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQAcAFWF5SIjZNsuBQHbEAUt+0V2prPj6UNWYTeFO9+yObFt+iiRLpVz1ccPmj714r8CyHFvATOOHtgUlfJKuIXL0zcHXbyLIRXCXXcJaAfJRNd11ugpEZzZVqYY63xZ+a7ec4K5jrja4PyTaomLKeBr7B9dwmQolj5sK+nU/3zqlYXDIrS6HXtIxd8j7jGFMUFyVy0YMB+tuq3y138jH1+l9UXNa89xYRTM9hyW1Zq2RmjPQH8FA39IzPLI8S3n4OFejC1FHPCN8zXnDnvgaNBljqJqiggmggD/WOP1S4cVk6mf618e4jVuT0ndu9cNbkdHgCH2DLtcQjViwhAfGY4kZgoyJpFcT/u7IImFpjLfBb3Dl5pUIkzVhYlpa26W6oMAAAAAAAAEmDCCBJQwggN8oAMCAQICEAH9o+tuynXIiEOLckvPvJEwDQYJKoZIhvcNAQELBQAwYTELMAkGA1UEBhMCVVMxFTATBgNVBAoTDERpZ2lDZXJ0IEluYzEZMBcGA1UECxMQd3d3LmRpZ2ljZXJ0LmNvbTEgMB4GA1UEAxMXRGlnaUNlcnQgR2xvYmFsIFJvb3QgQ0EwHhcNMTMwMzA4MTIwMDAwWhcNMjMwMzA4MTIwMDAwWjBNMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5EaWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDcrliQTcHEMBWQNVtuPIIV9SxcvePb/3FD+mQlgNTuGKJN8GbQCnNuEZg2F2SvN539+kGEr8evjP4ac03PM5eQopaHU4MruaZ1SC0dVjd72jEyGtesqwb0ql1Lt0dG3SqTw5AueYCA7xMEahQ7tZuSvsIHZU782vz/eq7cXH5VMQzoOQek174v0wtq0rHfX/5XdFM7NYDdro5EmLOfDtPa4Nf0aymrRKdLWIRtkkuBw9pzixKXSJAERXUa3Tcxl5LozVQNO+TBPzleLrjzXH4QjoZBAI1FZkewoWXOoKopCU7zl+voLqsPcqcwDvrH9P0Ud8OkWyhXwrP5gv23RVibAgMBAAGjggFaMIIBVjASBgNVHRMBAf8ECDAGAQH/AgEAMA4GA1UdDwEB/wQEAwIBhjA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTB7BgNVHR8EdDByMDegNaAzhjFodHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxSb290Q0EuY3JsMDegNaAzhjFodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxSb290Q0EuY3JsMD0GA1UdIAQ2MDQwMgYEVR0gADAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMB0GA1UdDgQWBBQPgGEcgjFh1S8o541GOLQs4cbZ4jAfBgNVHSMEGDAWgBQD3lA1VtFMu2bwo+IbG8OXsj3RVTANBgkqhkiG9w0BAQsFAAOCAQEAIz7fS9IxQqW2fkJcGkTMadFotF1L4AQhbEvibcyx4JePplMJzaoqZeU5Tx6DpW5cmKIkJub7oe2Txy4Cxk1Kv7BC33jas6j5bf8hhVM2YEx2zuw43NZRgPDF1uXUTSdkq5vHPnH7SJe4M23JEwfulqIbGBX2XExA7bPC7P9xweNH/9S5ALQ3Qtogyepuiu4UBq59olmYiKgbby308skUXybPLI1+7TfAqdU5uYK/GQzqNK8AIWj4rXPiyTLaOCULVdOaHfBohu0uQTTvfKVQHb86+dPBCAzm7R6KWCXkuHetLW71Ut20dI+rSS6dO5M0KB94zpTqx73TyW0c3lwy82YKMiaRXE/7uyCJhaYy3wW9w5eaVCJM1YWJaWtuluqDAAAAAAAAA7MwggOvMIICl6ADAgECAhAIO+BWkEJGsaF1aslZkcdKMA0GCSqGSIb3DQEBBQUAMGExCzAJBgNVBAYTAlVTMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5jb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IENBMB4XDTA2MTExMDAwMDAwMFoXDTMxMTExMDAwMDAwMFowYTELMAkGA1UEBhMCVVMxFTATBgNVBAoTDERpZ2lDZXJ0IEluYzEZMBcGA1UECxMQd3d3LmRpZ2ljZXJ0LmNvbTEgMB4GA1UEAxMXRGlnaUNlcnQgR2xvYmFsIFJvb3QgQ0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDiO+ERct6opNOjV6pQoo8Ld5DJoqXuEs6WWwEJIMwBk6dOMLdT90PEaQBXneKNIt2HBkAAgQnOzhuDv9/NO3FG4tZmxwWzdicWj3ueHpV97rdIowja1q96DDkGZX9KXR+8F/irvu4o13R/eniZWYVoblwjMku/TsDoWm3jcL93EL/8AfaF2ahEEFgyqXUY1dGivkfiJ2r0mjP4SQhgi9RftDqEv6GqSkx9Ps9PX2x2XqBLN5Ge3CLmbc4UGo5qy/7NsxRkF8dbKZ4yv/Lu+tMLQtSrt0Ey2gzU7/iB1buNWD+1G+hJKKJw2jEE3feyFvJMCk4HqO1KPV61f6OQw68nAgMBAAGjYzBhMA4GA1UdDwEB/wQEAwIBhjAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBQD3lA1VtFMu2bwo+IbG8OXsj3RVTAfBgNVHSMEGDAWgBQD3lA1VtFMu2bwo+IbG8OXsj3RVTANBgkqhkiG9w0BAQUFAAOCAQEAy5w3qkgTEgr63UScT1Kw9N+uBPV5eQijJBj8SyuEwC251cf+9MEfWMu4bZx6dOeYKasRteNwoKHNTIiZk4yRcOKrDxy+k6n/Y9XkB2DTo7+dWwnx1Y7jU/SOY/o/p9u0Zt9iZtbRbkGN8i216ndKn51Y4itZwEAj7S0ogkU+eVSSJpjggEioN+/w1nlgFt6s6A7NbqxEFzgvSdrhRT4quTZTzzpQBvcu6MRXSWxhIRjVBK14PCw6gGun668VFOnYicG5OGzikWyK/2S5dyVXMMAbJKPh3OnfR3y1tCQIBTDsLb0Lv0W/ULmp8+uYARKtyIjGmDRfjQo8xunVlZVt3gAAAAEAAAAIaHR0cC8xLjEAAQ== request-method GET response-head HTTP/1.1 200 OK
+x-amz-id-2: I6dvyyS93ayawe8NSqEoShleFP0E7VDLv4VtlrYEHXjzZwcZxWSqpVbwcQnmlUsVh1oNq7B5BS0=
+x-amz-request-id: F0498BDFD113491B
+Last-Modified: Fri, 02 Oct 2020 18:50:31 GMT
+ETag: "d855c7f7e1f7335b2f418dd51772e716"
+x-amz-version-id: YLiy1r9MjQ9d__tPVcvXMR_4kiMbEUu.
+Accept-Ranges: bytes
+Content-Type: application/octet-stream
+Content-Length: 14435
+Server: AmazonS3
+Date: Sat, 03 Oct 2020 22:10:53 GMT
+ original-response-headers x-amz-id-2: I6dvyyS93ayawe8NSqEoShleFP0E7VDLv4VtlrYEHXjzZwcZxWSqpVbwcQnmlUsVh1oNq7B5BS0=
+x-amz-request-id: F0498BDFD113491B
+Last-Modified: Fri, 02 Oct 2020 18:50:31 GMT
+ETag: "d855c7f7e1f7335b2f418dd51772e716"
+x-amz-version-id: YLiy1r9MjQ9d__tPVcvXMR_4kiMbEUu.
+Accept-Ranges: bytes
+Content-Type: application/octet-stream
+Content-Length: 14435
+Server: AmazonS3
+Date: Sat, 03 Oct 2020 22:10:53 GMT
+Connection: keep-alive
+ ctid 1 net-response-time-onstart 488 net-response-time-onstop 489   8c

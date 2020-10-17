@@ -1,0 +1,30 @@
+2020/10/16-11:50:03.023 b1a Reusing MANIFEST /home/vftsiqueira/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/10/16-11:50:03.024 b1a Recovering log #30
+2020/10/16-11:50:03.026 b1a Reusing old log /home/vftsiqueira/.config/google-chrome/Default/Sync Data/LevelDB/000030.log 
+2020/10/16-12:20:24.570 1082 Level-0 table #35: started
+2020/10/16-12:20:24.591 1082 Level-0 table #35: 110433 bytes OK
+2020/10/16-12:20:24.592 1082 Delete type=0 #30
+2020/10/17-08:34:29.905 3741 Level-0 table #37: started
+2020/10/17-08:34:29.916 3741 Level-0 table #37: 92779 bytes OK
+2020/10/17-08:34:29.919 3741 Delete type=0 #34
+2020/10/17-09:03:00.401 397c Level-0 table #39: started
+2020/10/17-09:03:00.420 397c Level-0 table #39: 90514 bytes OK
+2020/10/17-09:03:00.425 397c Delete type=0 #36
+2020/10/17-09:09:13.992 3a31 Level-0 table #41: started
+2020/10/17-09:09:14.000 3a31 Level-0 table #41: 93342 bytes OK
+2020/10/17-09:09:14.002 3a31 Delete type=0 #38
+2020/10/17-09:09:14.002 3a41 Compacting 4@0 + 1@1 files
+2020/10/17-09:09:14.006 3a41 Generated table #42@0: 139 keys, 14084 bytes
+2020/10/17-09:09:14.006 3a41 Compacted 4@0 + 1@1 files => 14084 bytes
+2020/10/17-09:09:14.007 3a41 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/17-09:09:14.007 3a41 Delete type=2 #37
+2020/10/17-09:09:14.007 3a41 Delete type=2 #32
+2020/10/17-09:09:14.007 3a41 Delete type=2 #41
+2020/10/17-09:09:14.007 3a41 Delete type=2 #35
+2020/10/17-09:09:14.007 3a41 Delete type=2 #39
+2020/10/17-09:13:09.005 3a72 Level-0 table #44: started
+2020/10/17-09:13:09.019 3a72 Level-0 table #44: 93363 bytes OK
+2020/10/17-09:13:09.023 3a72 Delete type=0 #40
+2020/10/17-09:23:03.633 3b20 Level-0 table #46: started
+2020/10/17-09:23:03.641 3b20 Level-0 table #46: 93814 bytes OK
+2020/10/17-09:23:03.645 3b20 Delete type=0 #43

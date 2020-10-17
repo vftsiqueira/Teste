@@ -1,0 +1,84 @@
+{
+   "checksum": "e61dd72a041ec3e8e0c3c1c41b517b2a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13246128858031307",
+               "guid": "e56b6e4f-7b12-4f2d-b05a-c19a3abcd738",
+               "id": "8",
+               "name": "How To Use OBS Studio With Zoom – eigenmagic",
+               "type": "url",
+               "url": "https://www.eigenmagic.com/2020/04/22/how-to-use-obs-studio-with-zoom/"
+            }, {
+               "date_added": "13246130851230789",
+               "guid": "c84e8815-8da6-4922-8a7c-70a5a53b3eec",
+               "id": "9",
+               "name": "Dicas para OBS no Linux para Google Meet | by Igor Machado | Aug, 2020 | Medium",
+               "type": "url",
+               "url": "https://medium.com/@igormcoelho/dicas-para-obs-no-linux-para-google-meet-8ac102972183"
+            } ],
+            "date_added": "13246298617264188",
+            "date_modified": "13246542518214093",
+            "guid": "48c3ba53-389d-424d-b7eb-8d813d841799",
+            "id": "7",
+            "name": "OBS",
+            "type": "folder"
+         }, {
+            "date_added": "13246542518214093",
+            "guid": "364785a7-53c3-4c32-8139-ca30c204cd8e",
+            "id": "11",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13247184618624647",
+            "guid": "f6f89f91-533b-48fa-9614-ec42122d3880",
+            "id": "13",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13246298564208873",
+         "date_modified": "13247184618624647",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13246298564208879",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13244668541999610",
+            "guid": "a5725478-9c7a-4ce9-8c66-d2243e4ec343",
+            "id": "5",
+            "name": "Supermercados Carone - Blog",
+            "type": "url",
+            "url": "https://www.carone.com.br/blog/agora-voce-pode-cadastrar-seu-curriculo-em-nosso-site/"
+         }, {
+            "date_added": "13244672718173156",
+            "guid": "9ab833d1-8b6a-473f-b938-ffaf92cd533c",
+            "id": "6",
+            "name": "Dados básicos - Curriculo Web",
+            "type": "url",
+            "url": "https://platform.senior.com.br/hcmrs/hcm/curriculo/?tenant=caronecombr&tenantdomain=carone.com.br#!/personal/step01?incompleteCurriculum=true"
+         } ],
+         "date_added": "13246298564208881",
+         "date_modified": "13244672718173156",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Favoritos de dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgA1Y79yxBQAhgA1Y79yxBQAiFAlbI///3LEFABABGcIbGM22y2rbMhgKFggCEVLNMADdsQUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmADVjv3LEFACGADVjv3LEFADIYChYIAhFSzTAA3bEFABgAIQAAAAAAAAAAIABI3u6ctNMucJrXv7DTLhIAIAEqGDRId1RFc2RRN0wyUFU1YTBaaTQyT1E9PRLDAQgCEr4BChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWnduTnZCVXg2dVRsUXpVWGhzVHd4UnlLKzJmbjUrNHA2cjhHNGdwNHJlczIvTnNTQjIrMmNwaDBMWFpLemdDS2lKc0N4cThHTDJ0K2xLTk1HdGRHSmtEYlBvZThnPT0YACAAKAAwlY+zmJ+b7AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgBlAAAAABKsAggFEqcCChxmNHVnNC9UdDdlTWo0ZEVGOUtieUJLcG5LLzQ9EqYBWjpBRHF0QVp6YlM4S1VZdkN4Rm8zZDVKaUkzSEtZL3l0V2lIcmtSLzVXNmtzVWcxeXlybVR6ZnZ1dUl4a28zOStJYWtBa2c3MWtZN3R5bG1La2VmZTg5THJYVXBDeTVGdHRnL2taWGg2Q1FpNGpZMGtIbkcyU0xTUTJoQ2hhU2d1d05mNnVLaGFXZzBaaVNNZ2hndEwwVnpTbnZERjc2NDZxWlE9PRgAIAEoATDggeO5qZ3sAjixqLSYyS5Asai0mMkuShx2T1p3OWlJQU9MNytmWWIyNmRXbmNQRnF6TzA9Wh4iHEhzbHlDOEJleEFtTVovQUlnbytVM0JBd0Iwbz1ljT3E4xKuAggLEqkCChxsNGxGWHpYN2JPNFByczA1UHZSdllYVTB6alU9EqYBWjpBRHF0QVp6YlM4S1VZdkN4Rm8zZDVKaUkzSEtZWjBGb2hDVkR2N0lIbjZtSjBGNTJuTVFjQTkyVDQ1YUNYbFVENjlQeldBMW4zZVJENlk2SjBvbkd0M1pxVkt1eWIrM29ndklVYzdydVcrYlo1VTBEQU5sdnNLaTZpaEpwQ1R0Y3I2S1h5eDJWajB6T0J6YnhOa3daVmVTcVJaOXY4WWgycWc9PRgAIP8BKP8BMK6e0IHQu+wCOMbf/pXQLkCZ3py00y5KHEI0WjNNbWxhTndrSUdpRGpPc3l4RlBqTnJXbz1aHiIcNHpqNy9LY1BPb1NHcDBnd3VGMHFUT0Z0QS9BPWXl8mSzEqwCCAgSpwIKHGsvVFhXUWRjeGVaVm1lSitnTytTNkFaQUJRQT0SpgFaOkFEcXRBWnpiUzhLVVl2Q3hGbzNkNUppSTNIS1kwUTRRbWYvdmMvZCt3WWl6cWEyWDR6aVkyeU9zS0JOakozVXlJcFpjRHVkWS93RE84RktTVUZ0TXVtYURXdnJuSlJBQmVCWDdCckNEWkxObVUzSmUwSlRDdE1FYURScGxrVW0yRVZ3VC91VW0xZllCUHcwZkNyQTgxK3JzTUdSNW1PV1ROQT09GAAgASgBMOCB47mpnewCOLT33tDOLkC0997Qzi5KHDFWZjJEYzdJN2RjRElOVHVmckVuOHI1eDNWST1aHiIcQWRtSUwvVUNtekJEUS9qek9uelZKRzhUMXZRPWXpZhB2EqsBCAESpgEKHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0STlo6QURxdEFaeVgxY0MxRE5OWFlkSmVhWDV4dXI0cXZaV0VMbXF5S1BqRHhoK0VOZk9OTTlIN0kycEQvMTZFY3FHc2IwcVVhQlhvK0V0NRgAIAAoADCVj7OYn5vsAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aAGUAAAAAEqwCCAkSpwIKHHZNL0J2aTI2cENOQ3FVU3pVUnRvRFl6d2h6WT0SpgFaOkFEcXRBWnpiUzhLVVl2Q3hGbzNkNUppSTNIS1kwUTRRbWYvdmMvZCt3WWl6cWEyWDQ4S2lnbFk3cDF1WG1ncFQ1UzN2RGRoRVlwTGVRMlE3TEw1K2wwQ01yYVNXN29BY2M2ZUlOak5FUnNpcGkrQVh3UWNwcGxaMDNwL2QzeFNpM0pkVCtGSEtMcnBLNDBva2o3Q0VabUU2a0JjNHhEU2UxQT09GAAgASgBMOCB47mpnewCOKHL2NHOLkChy9jRzi5KHFdzc3dNVTRrNnNiL1VGR1JieUdtRlV5ZGo2ST1aHiIceWhNenlIT3d6WC9mQy85T3grR2xHNTBidi9RPWWAsCJ2EqwCCA0SpwIKHDFnM2JjQ1RuQU9UQVdQSkd1UzJ4dHBGUGQ2Yz0SpgFaOkFEcXRBWnpiUzhLVVl2Q3hGbzNkNUppSTNIS1laMEZvaENWRHY3SUhuNm1KMEY1Mm5DZ3RaRm0xOVljdHRieWFUaS9GazRzR2JzVUVVb1dQS0lhTzB6U0Z3OEtvMFJwOXRqdzQzQ04vRTY2enZMQmI2MTE2dFBLQ25RRGhxdGdZL1h1Z2FmdGJKeThBN2l2WE1CMDEyQ0ZYVmdySG1UYXZWQT09GAAgAigCMMehxuiDtewCOIG5lcjSLkCGuZXI0i5KHGpCMGxBbndUOWMwZlZPUWJ3b1BZSmRYcEUrWT1aHiIcV1VzQ2NKemZXTVZ5RnpUWlJ6TlV0bE5ydWpBPWU4/XbbEsMBCAMSvgEKHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SZlo6QURxdEFaeklVRGxBcVFrczZkWWphTGxzOUpvMmo0VENaY2sxYzQzaGpkaHdYa3RXOEk4ZTV6M3hBY0V3RzNiSE9DR0d1NXdZRzB0TitLUmNKdkpBVjBVVm5ISXBGUHViM1E9PRgAIAAoADCVj7OYn5vsAjgAQABKHDc5bCtMUkVVcGlhRXZERCtHNDNjcFhTdHdCYz1aAGUAAAAAEqwCCAYSpwIKHExQVnczcDBEdXBvSnVaWjRwRjZsTGNYMGZCZz0SpgFaOkFEcXRBWnpiUzhLVVl2Q3hGbzNkNUppSTNIS1kveXRXaUhya1IvNVc2a3NVZzF5eXJrcDZUQTFzTG9wRXRWMjl3UDdaOFdwRkU0Szl5NlFrQ2NwWDFSZkpWSGd3TS9ocHNCSkhDb2owYytNSmdIWTg3VHJxbExWay9ERjAvbm94bzlVNnVvcmhqbVVUVDh4TFdiaExVbGlvN0F4dG9xVWc3Zz09GAAgASgBMOCB47mpnewCOOCas5rJLkDgmrOayS5KHHpwczVhL2lLYkFNbmVINEhkRGpKazljdnBLYz1aHiIcWW0yT01LL1Z5eU4ramdwdGVlZXVEZnFyQ2NNPWUIke8XEqwCCAcSpwIKHFlmRkpxUGdxRnhoUk9vbWlNWEhybjFkN2MyOD0SpgFaOkFEcXRBWnpiUzhLVVl2Q3hGbzNkNUppSTNIS1kwUTRRbWYvdmMvZCt3WWl6cWEyWDR3dno3MWozbXFoREJsTi8rUUQwWEtmbkhCcmw5RTZWZHdkaW5IVlI3RWt4L2tGelFFajNvMWdxWWtDeTNucVhucS9pUnk3ZWczSllWU2xDUC8veUpKR1pybDhoajl4bERUUWZnNno0eXVvcGlWcE9rQT09GAAgASgBMI3Jw7ipnewCOM+m3tDOLkDPpt7Qzi5KHHVhWmsrZmgxYzhqQnh1eFl5dVo3U256MXZRZz1aHiIcNDBCVDNuOGtlUXdPSG5rVXVlKzhsQmdjbk1VPWUAAAAAGAEguO+ctNMu",
+   "version": 1
+}

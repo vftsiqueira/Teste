@@ -1,0 +1,10 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/vftsiqueira
+> git status -z -u
+> git show --textconv :.zshrc
+> git ls-files --stage -- /home/vftsiqueira/.zshrc
+> git check-ignore -v -z --stdin
+> git show --textconv :.zshrc
+> git ls-files --stage -- /home/vftsiqueira/.zshrc

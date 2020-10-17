@@ -1,0 +1,94 @@
+{
+  "Version": "20.04",
+  "OEM": {
+    "Vendor": "Dell Inc.",
+    "Product": "Inspiron 3584",
+    "Family": "Inspiron"
+  },
+  "BIOS": {
+    "Vendor": "Dell Inc.",
+    "Version": "1.7.0"
+  },
+  "CPU": {
+    "OpMode": "32-bit, 64-bit",
+    "CPUs": "4",
+    "Threads": "2",
+    "Cores": "2",
+    "Sockets": "1",
+    "Vendor": "GenuineIntel",
+    "Family": "6",
+    "Model": "142",
+    "Stepping": "10",
+    "Name": "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz",
+    "Virtualization": "VT-x"
+  },
+  "Arch": "amd64",
+  "GPU": [
+    {
+      "Vendor": "8086",
+      "Model": "5917"
+    }
+  ],
+  "RAM": 3.9,
+  "Partitions": [
+    50.1,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "344mmx194mm",
+      "Resolution": "1366x768",
+      "Frequency": "60.00"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "x11"
+  },
+  "Language": "pt_BR",
+  "Timezone": "America/Sao_Paulo",
+  "Install": {
+    "Media": "Ubuntu 20.04.1 LTS \"Focal Fossa\" - Release amd64 (20200731)",
+    "Type": "GTK",
+    "OEM": false,
+    "PartitionMethod": "manual",
+    "DownloadUpdates": true,
+    "Language": "pt_BR",
+    "Minimal": true,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "2": "language",
+      "6": "console_setup",
+      "25": "console_setup",
+      "27": "console_setup",
+      "34": "console_setup",
+      "38": "wireless",
+      "107": "prepare",
+      "145": "partman",
+      "159": "prepare",
+      "167": "console_setup",
+      "173": "language",
+      "182": "console_setup",
+      "186": "prepare",
+      "196": "partman",
+      "213": "partman",
+      "215": "partman",
+      "547": "partman",
+      "549": "partman",
+      "607": "partman",
+      "608": "partman",
+      "630": "partman",
+      "632": "partman",
+      "644": "partman",
+      "651": "start_install",
+      "666": "timezone",
+      "681": "usersetup",
+      "737": "user_done",
+      "1012": "done"
+    }
+  }
+}

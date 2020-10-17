@@ -1,0 +1,280 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.1.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de linha de comando (mais recente primeiro):
+:wq
+|2,0,1602773950,,"wq"
+
+# Histórico de expressões de busca (mais recente primeiro):
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+""-	CHAR	0
+	d
+|3,1,36,0,1,0,1602706332,"d"
+
+# Marcas nos arquivos:
+'0  1  12  ~/.gitignore
+|4,48,1,12,1602773950,"~/.gitignore"
+'1  1  12  ~/.gitignore
+|4,49,1,12,1602713717,"~/.gitignore"
+'2  1  16  ~/novo.html
+|4,50,1,16,1602706700,"~/novo.html"
+'3  1  23  ~/index.html
+|4,51,1,23,1602706420,"~/index.html"
+'4  1  10  ~/index.html
+|4,52,1,10,1602705398,"~/index.html"
+'5  1  15  ~/novo.html
+|4,53,1,15,1602013846,"~/novo.html"
+'6  1  19  ~/index.html
+|4,54,1,19,1602013268,"~/index.html"
+'7  1  19  ~/index.html
+|4,55,1,19,1602013268,"~/index.html"
+'8  1  20  ~/Documentos/index.html
+|4,56,1,20,1601910761,"~/Documentos/index.html"
+
+# Lista de saltos (mais recente primeiro):
+-'  1  12  ~/.gitignore
+|4,39,1,12,1602773950,"~/.gitignore"
+-'  1  12  ~/.gitignore
+|4,39,1,12,1602713717,"~/.gitignore"
+-'  1  16  ~/novo.html
+|4,39,1,16,1602706700,"~/novo.html"
+-'  1  16  ~/novo.html
+|4,39,1,16,1602706700,"~/novo.html"
+-'  1  16  ~/novo.html
+|4,39,1,16,1602706700,"~/novo.html"
+-'  1  16  ~/novo.html
+|4,39,1,16,1602706700,"~/novo.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  23  ~/index.html
+|4,39,1,23,1602706420,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  10  ~/index.html
+|4,39,1,10,1602705398,"~/index.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  15  ~/novo.html
+|4,39,1,15,1602013846,"~/novo.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  19  ~/index.html
+|4,39,1,19,1602013268,"~/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+-'  1  20  ~/Documentos/index.html
+|4,39,1,20,1601910761,"~/Documentos/index.html"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/.gitignore
+	*	1602773947	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> ~/novo.html
+	*	1602706698	0
+	"	1	16
+	^	1	17
+	.	1	17
+	+	1	17
+
+> ~/index.html
+	*	1602706414	0
+	"	1	23
+	^	1	24
+	.	1	23
+	+	1	23
+
+> ~/Documentos/index.html
+	*	1601910747	0
+	"	1	20
+	^	1	21
+	.	1	20
+	+	1	20

@@ -1,0 +1,760 @@
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/99/zoom
+cmd line: 
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/99 
+Can't load/home/vftsiqueira/snap/zoom-client/99/.config/zoomus.conf
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/99/.zoom; export QSG_INFO=1; export QXXXXXXXXCREEN_SCALE_FACTOR=1; export LXXXXXXXXY_PATH=/snap/zoom-client/99/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/99/zoom/zoom "" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.465578.0920
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_EXT_framebuffer_blit GL_ARB_texture_env_combine GL_ARB_transform_feedback3 GL_ARB_texture_multisample GL_ARB_texture_gather GL_SGIS_texture_lod GL_ARB_instanced_arrays GL_EXT_copy_texture GL_ARB_shader_atomic_counter_ops GL_ARB_stencil_texturing GL_AMD_query_buffer_object GL_NV_light_max_exponent GL_EXT_multi_draw_arrays GL_AMD_multi_draw_indirect GL_EXT_shadow_funcs GL_ARB_shader_group_vote GL_ARB_texture_barrier GL_NV_primitive_restart GL_ARB_gl_spirv GL_EXT_texture_sRGB GL_IBM_texture_mirrored_repeat GL_ARB_derivative_control GL_EXT_texture_shadow_lod GL_ARB_fragment_shader_interlock GL_EXT_texture_sRGB_R8 GL_ARB_multi_draw_indirect GL_ARB_texture_cube_map GL_ARB_texture_rectangle GL_EXT_texture_snorm GL_ARB_shader_texture_lod GL_ANGLE_texture_compression_dxt3 GL_ARB_compressed_texture_pixel_storage GL_ARB_texture_storage_multisample GL_SGIS_texture_border_clamp GL_ARB_texture_float GL_ARB_texture_filter_anisotropic GL_EXT_bgra GL_ARB_multisample GL_NV_texture_env_combine4 GL_ARB_texture_view GL_ARB_robust_buffer_access_behavior GL_ARB_program_interface_query GL_ANGLE_texture_compression_dxt5 GL_EXT_packed_float GL_ARB_vertex_array_bgra GL_ARB_clear_texture GL_EXT_direct_state_access GL_NV_texgen_reflection GL_ARB_shading_language_packing GL_ARB_separate_shader_objects GL_ARB_pipeline_statistics_query GL_NV_packed_depth_stencil GL_ARB_texture_mirror_clamp_to_edge GL_ARB_seamless_cube_map GL_EXT_shader_samples_identical GL_ARB_sample_shading GL_EXT_texture_sRGB_decode GL_EXT_point_parameters GL_SUN_multi_draw_arrays GL_INGR_blend_func_separate GL_ARB_fragment_layer_viewport GL_ARB_cull_distance GL_EXT_shader_framebuffer_fetch GL_EXT_draw_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_EGL_sync GL_ARB_texture_rgb10_a2ui GL_EXT_transform_feedback GL_EXT_texture GL_ARB_texture_non_power_of_two GL_EXT_texture_compression_s3tc GL_NV_conditional_render GL_EXT_blend_func_separate GL_ARB_shading_language_include GL_ARB_shader_draw_parameters GL_ARB_indirect_parameters GL_ARB_color_buffer_float GL_INTEL_shader_atomic_float_minmax GL_ARB_texture_env_crossbar GL_ARB_shadow GL_EXT_polygon_offset_clamp GL_ARB_shader_stencil_export GL_EXT_rescale_normal GL_ARB_ES3_compatibility GL_ARB_point_sprite GL_EXT_framebuffer_sRGB GL_ARB_depth_buffer_float GL_ARB_shader_precision GL_ARB_framebuffer_object GL_ARB_transform_feedback_instanced GL_ARB_texture_query_lod GL_ARB_map_buffer_range GL_ARB_texture_mirrored_repeat GL_OES_EGL_image GL_ARB_buffer_storage GL_SGIS_texture_edge_clamp GL_ARB_vertex_shader GL_ARB_spirv_extensions GL_ARB_half_float_vertex GL_ARB_uniform_buffer_object GL_ATI_texture_env_combine3 GL_ARB_vertex_buffer_object GL_ARB_draw_instanced GL_EXT_framebuffer_object GL_ARB_polygon_offset_clamp GL_ARB_transpose_matrix GL_EXT_gpu_shader4 GL_ARB_shader_atomic_counters GL_EXT_texture_shared_exponent GL_ARB_timer_query GL_AMD_conservative_depth GL_ARB_internalformat_query GL_ARB_vertex_program GL_ARB_map_buffer_alignment GL_NV_texture_rectangle GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_texture_stencil8 GL_KHR_no_error GL_ARB_sync GL_ARB_shader_ballot GL_ARB_shader_image_size GL_AMD_shader_trinary_minmax GL_3DFX_texture_compression_FXT1 GL_ARB_parallel_shader_compile GL_ARB_get_program_binary GL_EXT_framebuffer_multisample GL_EXT_texture_filter_anisotropic GL_ARB_ES3_1_compatibility GL_ARB_framebuffer_sRGB GL_ARB_texture_border_clamp GL_APPLE_object_purgeable GL_EXT_texture3D GL_ARB_conditional_render_inverted GL_SGIS_generate_mipmap GL_EXT_blend_equation_separate GL_NV_texture_barrier GL_EXT_stencil_wrap GL_ARB_occlusion_query2 GL_EXT_texture_env_add GL_ARB_provoking_vertex GL_EXT_abgr GL_EXT_texture_env_combine GL_ARB_vertex_type_10f_11f_11f_rev GL_MESA_pack_invert GL_MESA_texture_signed_rgba GL_ARB_fragment_program GL_ARB_shader_bit_encoding GL_ARB_window_pos GL_ARB_draw_buffers GL_ARB_explicit_uniform_location GL_MESA_shader_integer_functions GL_ARB_copy_image GL_KHR_texture_compression_astc_sliced_3d GL_ARB_half_float_pixel GL_EXT_separate_specular_color GL_ARB_texture_query_levels GL_APPLE_packed_pixels GL_ARB_depth_clamp GL_KHR_robustness GL_EXT_blend_subtract GL_ARB_shader_image_load_store GL_EXT_compiled_vertex_array GL_ATI_texture_float GL_IBM_rasterpos_clip GL_ATI_draw_buffers GL_ARB_ES2_compatibility GL_ARB_internalformat_query2 GL_ARB_texture_compression_bptc GL_ARB_texture_rg GL_EXT_provoking_vertex GL_ARB_shader_storage_buffer_object GL_EXT_texture_integer GL_EXT_shader_framebuffer_fetch_non_coherent GL_ARB_query_buffer_object GL_KHR_parallel_shader_compile GL_ARB_transform_feedback_overflow_query GL_ARB_clip_control GL_ARB_seamless_cubemap_per_texture GL_ARB_fragment_program_shadow GL_KHR_context_flush_control GL_ARB_draw_indirect GL_ARB_multitexture GL_EXT_fog_coord GL_ARB_point_parameters GL_EXT_packed_pixels GL_ARB_vertex_attrib_binding GL_ARB_blend_func_extended GL_ATI_blend_equation_separate GL_ARB_draw_buffers_blend GL_EXT_blend_minmax GL_EXT_draw_range_elements GL_ARB_pixel_buffer_object GL_ARB_conservative_depth GL_ARB_explicit_attrib_location GL_EXT_texture_rectangle GL_EXT_demote_to_helper_invocation GL_NV_compute_shader_derivatives GL_EXT_shader_integer_mix GL_EXT_texture_compression_dxt1 GL_ARB_depth_texture GL_ARB_fragment_coord_conventions GL_EXT_texture_swizzle GL_NV_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_multi_bind GL_ARB_texture_swizzle GL_EXT_EGL_image_storage GL_AMD_texture_texture4 GL_AMD_depth_clamp_separate GL_EXT_texture_compression_rgtc GL_KHR_robust_buffer_access_behavior GL_ARB_vertex_array_object GL_NV_blend_square GL_ARB_compute_shader GL_EXT_texture_cube_map GL_ARB_shader_texture_image_samples GL_OES_read_format GL_ARB_copy_buffer GL_ARB_fragment_shader GL_EXT_blend_color GL_ARB_invalidate_subdata GL_ARB_shading_language_100 GL_ARB_shader_objects GL_ARB_sampler_objects GL_EXT_texture_object GL_EXT_draw_buffers2 GL_ARB_clear_buffer_object GL_EXT_vertex_array_bgra GL_EXT_texture_array GL_NV_depth_clamp GL_KHR_blend_equation_advanced_coherent GL_IBM_multimode_draw_arrays GL_ARB_draw_elements_base_vertex GL_EXT_texture_lod_bias GL_AMD_seamless_cubemap_per_texture GL_EXT_vertex_array GL_EXT_secondary_color GL_EXT_stencil_two_side GL_ARB_transform_feedback2 GL_ARB_texture_env_add GL_EXT_timer_query GL_AMD_draw_buffers_blend GL_EXT_pixel_buffer_object GL_ARB_debug_output GL_ATI_separate_stencil GL_S3_s3tc GL_EXT_subtexture GL_KHR_debug GL_NV_fog_distance GL_ARB_occlusion_query GL_EXT_texture_edge_clamp GL_ARB_get_texture_sub_image GL_ARB_shader_clock GL_INTEL_shader_integer_functions2 GL_ARB_texture_compression GL_ARB_arrays_of_arrays GL_ARB_texture_env_dot3 GL_EXT_packed_depth_stencil GL_INTEL_performance_query GL_ARB_post_depth_coverage GL_ARB_robustness GL_ARB_shading_language_420pack GL_ARB_texture_cube_map_array GL_MESA_window_pos GL_ARB_texture_compression_rgtc GL_ARB_texture_storage GL_EXT_texture_env_dot3 GL_KHR_texture_compression_astc_ldr GL_AMD_shader_stencil_export GL_KHR_blend_equation_advanced GL_EXT_gpu_program_parameters
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/99/zoom
+cmd line: 
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/99 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/99/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/99/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/99/zoom/zoom "" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.465578.0920
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_ARB_multi_bind GL_ARB_depth_buffer_float GL_EXT_shader_integer_mix GL_EXT_draw_buffers2 GL_NV_primitive_restart GL_ARB_seamless_cubemap_per_texture GL_EXT_texture_env_add GL_ARB_texture_float GL_EXT_multi_draw_arrays GL_ARB_texture_rectangle GL_EXT_texture_compression_s3tc GL_ARB_multisample GL_ARB_fragment_program_shadow GL_EXT_texture3D GL_EXT_texture_sRGB GL_EXT_texture_compression_dxt1 GL_ARB_texture_query_levels GL_ARB_texture_multisample GL_AMD_conservative_depth GL_ARB_timer_query GL_ARB_texture_stencil8 GL_INTEL_shader_integer_functions2 GL_EXT_texture_shared_exponent GL_ARB_shader_bit_encoding GL_EXT_texture_array GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_texture_query_lod GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_ARB_transform_feedback_overflow_query GL_ARB_texture_storage GL_ARB_draw_instanced GL_ARB_query_buffer_object GL_NV_texture_barrier GL_MESA_pack_invert GL_OES_read_format GL_NV_conditional_render GL_ARB_shader_texture_image_samples GL_ARB_vertex_program GL_ARB_sampler_objects GL_EXT_shader_framebuffer_fetch GL_EXT_abgr GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_texture_sRGB_decode GL_EXT_fog_coord GL_ARB_vertex_attrib_binding GL_EXT_texture_snorm GL_KHR_texture_compression_astc_ldr GL_ARB_vertex_array_bgra GL_MESA_texture_signed_rgba GL_ARB_separate_shader_objects GL_EXT_texture_env_combine GL_ARB_cull_distance GL_KHR_context_flush_control GL_KHR_parallel_shader_compile GL_EXT_vertex_array GL_ARB_transform_feedback3 GL_OES_EGL_image GL_ARB_invalidate_subdata GL_EXT_texture_env_dot3 GL_INTEL_shader_atomic_float_minmax GL_EXT_bgra GL_EXT_blend_equation_separate GL_ARB_texture_swizzle GL_ARB_pipeline_statistics_query GL_APPLE_packed_pixels GL_ARB_texture_compression_rgtc GL_MESA_shader_integer_functions GL_NV_depth_clamp GL_SGIS_texture_lod GL_EXT_stencil_wrap GL_ARB_half_float_pixel GL_APPLE_object_purgeable GL_ARB_derivative_control GL_ARB_seamless_cube_map GL_ARB_texture_non_power_of_two GL_ATI_texture_env_combine3 GL_ARB_shader_image_size GL_EXT_packed_depth_stencil GL_AMD_texture_texture4 GL_EXT_draw_instanced GL_ATI_draw_buffers GL_EXT_direct_state_access GL_KHR_texture_compression_astc_sliced_3d GL_NV_texgen_reflection GL_EXT_shadow_funcs GL_ARB_map_buffer_alignment GL_ARB_arrays_of_arrays GL_ARB_texture_env_dot3 GL_EXT_shader_framebuffer_fetch_non_coherent GL_ARB_internalformat_query GL_EXT_demote_to_helper_invocation GL_NV_light_max_exponent GL_EXT_point_parameters GL_EXT_texture_edge_clamp GL_EXT_gpu_shader4 GL_ARB_instanced_arrays GL_ARB_vertex_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_blend_subtract GL_ARB_sample_shading GL_ARB_depth_clamp GL_NV_fog_distance GL_ARB_transpose_matrix GL_EXT_separate_specular_color GL_SGIS_texture_border_clamp GL_ARB_framebuffer_object GL_ARB_debug_output GL_ARB_fragment_program GL_ATI_blend_equation_separate GL_ARB_buffer_storage GL_IBM_texture_mirrored_repeat GL_ARB_shading_language_100 GL_EXT_subtexture GL_ARB_explicit_attrib_location GL_ARB_internalformat_query2 GL_MESA_window_pos GL_ARB_texture_mirror_clamp_to_edge GL_KHR_debug GL_ARB_texture_cube_map GL_KHR_blend_equation_advanced GL_ARB_multi_draw_indirect GL_ARB_ES3_1_compatibility GL_INGR_blend_func_separate GL_ARB_gl_spirv GL_KHR_blend_equation_advanced_coherent GL_ARB_shader_storage_buffer_object GL_ARB_shader_image_load_store GL_IBM_multimode_draw_arrays GL_ARB_fragment_shader_interlock GL_ARB_texture_rg GL_ARB_get_program_binary GL_ARB_fragment_coord_conventions GL_EXT_copy_texture GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_framebuffer_sRGB GL_ARB_clear_texture GL_ARB_texture_gather GL_ARB_shader_atomic_counter_ops GL_AMD_draw_buffers_blend GL_ARB_texture_compression GL_EXT_gpu_program_parameters GL_NV_blend_square GL_AMD_seamless_cubemap_per_texture GL_NV_texture_rectangle GL_ARB_framebuffer_sRGB GL_EXT_compiled_vertex_array GL_ANGLE_texture_compression_dxt3 GL_ARB_texture_env_combine GL_ARB_shading_language_packing GL_ARB_texture_env_add GL_ARB_robustness GL_ARB_texture_compression_bptc GL_ARB_conditional_render_inverted GL_ARB_clip_control GL_ARB_robust_buffer_access_behavior GL_ARB_copy_buffer GL_ANGLE_texture_compression_dxt5 GL_ARB_fragment_shader GL_ARB_shader_texture_lod GL_ARB_compressed_texture_pixel_storage GL_AMD_multi_draw_indirect GL_ARB_shader_stencil_export GL_INTEL_performance_query GL_AMD_shader_trinary_minmax GL_ARB_half_float_vertex GL_ARB_texture_mirrored_repeat GL_ARB_multitexture GL_EXT_blend_func_separate GL_ARB_copy_image GL_ARB_vertex_shader GL_AMD_shader_stencil_export GL_ARB_shading_language_420pack GL_ARB_vertex_array_object GL_SGIS_texture_edge_clamp GL_EXT_shader_samples_identical GL_ARB_texture_filter_anisotropic GL_EXT_EGL_image_storage GL_IBM_rasterpos_clip GL_ARB_draw_elements_base_vertex GL_ARB_explicit_uniform_location GL_ARB_blend_func_extended GL_ARB_shadow GL_EXT_texture_object GL_NV_packed_depth_stencil GL_ARB_draw_buffers_blend GL_ARB_clear_buffer_object GL_ARB_framebuffer_no_attachments GL_ARB_uniform_buffer_object GL_ATI_separate_stencil GL_ARB_transform_feedback2 GL_S3_s3tc GL_ARB_conservative_depth GL_EXT_packed_float GL_EXT_timer_query GL_EXT_texture_shadow_lod GL_ARB_ES2_compatibility GL_ARB_shading_language_include GL_ARB_window_pos GL_ARB_shader_draw_parameters GL_ARB_spirv_extensions GL_EXT_pixel_buffer_object GL_EXT_EGL_sync GL_ARB_draw_indirect GL_EXT_texture_cube_map GL_EXT_framebuffer_object GL_ATI_texture_float GL_ARB_texture_barrier GL_ARB_draw_buffers GL_EXT_blend_minmax GL_ARB_stencil_texturing GL_AMD_query_buffer_object GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_NV_fragment_shader_interlock GL_KHR_robust_buffer_access_behavior GL_ARB_get_texture_sub_image GL_EXT_texture_rectangle GL_NV_texture_env_combine4 GL_ARB_shader_precision GL_ARB_color_buffer_float GL_ARB_occlusion_query2 GL_EXT_texture GL_EXT_provoking_vertex GL_ARB_compute_shader GL_ARB_texture_env_crossbar GL_ARB_occlusion_query GL_ARB_texture_view GL_ARB_parallel_shader_compile GL_ARB_post_depth_coverage GL_ARB_indirect_parameters GL_EXT_rescale_normal GL_EXT_texture_lod_bias GL_EXT_texture_swizzle GL_ARB_map_buffer_range GL_SGIS_generate_mipmap GL_EXT_blend_color GL_ARB_transform_feedback_instanced GL_ARB_shader_objects GL_EXT_texture_compression_rgtc GL_ARB_texture_storage_multisample GL_ARB_shader_ballot GL_ARB_texture_border_clamp GL_3DFX_texture_compression_FXT1 GL_ARB_point_parameters GL_KHR_no_error GL_ARB_polygon_offset_clamp GL_EXT_texture_sRGB_R8 GL_ARB_shader_clock GL_EXT_texture_filter_anisotropic GL_EXT_draw_range_elements GL_ARB_depth_texture GL_ARB_shader_group_vote GL_ARB_texture_rgb10_a2ui GL_ARB_pixel_buffer_object GL_KHR_robustness GL_AMD_depth_clamp_separate GL_ARB_sync GL_ARB_shader_atomic_counters GL_EXT_texture_integer GL_ARB_point_sprite GL_NV_compute_shader_derivatives GL_ARB_fragment_layer_viewport GL_ARB_texture_cube_map_array GL_EXT_stencil_two_side GL_SUN_multi_draw_arrays GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_ES3_compatibility GL_EXT_packed_pixels GL_EXT_secondary_color
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+QProcess: Destroyed while process ("./zopen") is still running.
+Gtk-Message: 08:24:04.223: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:24:04.229: Failed to load module "canberra-gtk-module"
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/99/zoom
+cmd line: zoommtg://google.zoom.us/google?token=fBMo%2BxieSIj7NwVRLKcxoYbRIG4u30tQ8VF%2B7eU6wOrahsnQi7KpcaEs0mgjsinsdVtwa01e%2F7phJJK96jsKgM7vR0VnjwpUwa3Xm5ZMP9JoxWuCOGINYaxVvxJrNd6wkjwylhf%2FljDhlNHeuUPP0eOZdR%2BkVFgq2AF79SyMe9WUgfqsoHwKk2JqqBUR%2BWxxwowP%2B%2BW5MghfLSM7LUn7XXF8z%2FgFUxkeo7V6icE2j8zTD52otsMVgUdCqJGpwLuArgovj5ludXbYwvbr9eKl4uknUv3aIv5nnhj3X2%2BiVmQEJKkupvLoO6Myj32BKooet5R1hSDZ0SR%2FjIOkgMmEk5pqSChsYhSmkpjgPVdHMRc5JatQ9sO7CABiF%2Fzi9mB4&errorno=0&errormsg=
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/99 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/99/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/99/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/99/zoom/zoom "zoommtg://google.zoom.us/google?token=fBMo%2BxieSIj7NwVRLKcxoYbRIG4u30tQ8VF%2B7eU6wOrahsnQi7KpcaEs0mgjsinsdVtwa01e%2F7phJJK96jsKgM7vR0VnjwpUwa3Xm5ZMP9JoxWuCOGINYaxVvxJrNd6wkjwylhf%2FljDhlNHeuUPP0eOZdR%2BkVFgq2AF79SyMe9WUgfqsoHwKk2JqqBUR%2BWxxwowP%2B%2BW5MghfLSM7LUn7XXF8z%2FgFUxkeo7V6icE2j8zTD52otsMVgUdCqJGpwLuArgovj5ludXbYwvbr9eKl4uknUv3aIv5nnhj3X2%2BiVmQEJKkupvLoO6Myj32BKooet5R1hSDZ0SR%2FjIOkgMmEk5pqSChsYhSmkpjgPVdHMRc5JatQ9sO7CABiF%2Fzi9mB4&errorno=0&errormsg=" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+Zoom is running, send message to it: zoommtg://google.zoom.us/google?token=fBMo%2BxieSIj7NwVRLKcxoYbRIG4u30tQ8VF%2B7eU6wOrahsnQi7KpcaEs0mgjsinsdVtwa01e%2F7phJJK96jsKgM7vR0VnjwpUwa3Xm5ZMP9JoxWuCOGINYaxVvxJrNd6wkjwylhf%2FljDhlNHeuUPP0eOZdR%2BkVFgq2AF79SyMe9WUgfqsoHwKk2JqqBUR%2BWxxwowP%2B%2BW5MghfLSM7LUn7XXF8z%2FgFUxkeo7V6icE2j8zTD52otsMVgUdCqJGpwLuArgovj5ludXbYwvbr9eKl4uknUv3aIv5nnhj3X2%2BiVmQEJKkupvLoO6Myj32BKooet5R1hSDZ0SR%2FjIOkgMmEk5pqSChsYhSmkpjgPVdHMRc5JatQ9sO7CABiF%2Fzi9mB4&errorno=0&errormsg=
+Exit zoom as another zoom instance is running!
+No PulseAudio daemon running, or not running as session daemon.
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+Gtk-Message: 08:24:31.990: Failed to load module "canberra-gtk-module"
+Gtk-Message: 08:24:31.992: Failed to load module "canberra-gtk-module"
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/99/zoom
+cmd line: 
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/99 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/99/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/99/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/99/zoom/zoom "" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+Exit zoom as another zoom instance is running!
+No PulseAudio daemon running, or not running as session daemon.
+Client: Breakpad is using Client-Server Mode! client fd = 3
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/99/zoom
+cmd line: 
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/99 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/99/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/99/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/99/zoom/zoom "" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.465578.0920
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_EXT_texture_env_combine GL_ARB_clear_texture GL_MESA_texture_signed_rgba GL_KHR_no_error GL_ARB_texture_barrier GL_ARB_texture_query_lod GL_ARB_shader_precision GL_ARB_texture_filter_anisotropic GL_EXT_framebuffer_blit GL_NV_packed_depth_stencil GL_ARB_sync GL_ARB_vertex_type_10f_11f_11f_rev GL_ATI_blend_equation_separate GL_ARB_fragment_shader GL_ARB_texture_swizzle GL_SUN_multi_draw_arrays GL_EXT_texture_sRGB_decode GL_EXT_texture_swizzle GL_EXT_packed_depth_stencil GL_APPLE_object_purgeable GL_ARB_compressed_texture_pixel_storage GL_EXT_texture_lod_bias GL_KHR_debug GL_EXT_packed_float GL_ARB_texture_compression_rgtc GL_EXT_pixel_buffer_object GL_NV_texgen_reflection GL_ARB_draw_buffers_blend GL_ARB_shader_image_size GL_EXT_bgra GL_NV_depth_clamp GL_AMD_shader_stencil_export GL_3DFX_texture_compression_FXT1 GL_MESA_pack_invert GL_ARB_clip_control GL_EXT_texture_object GL_ARB_texture_non_power_of_two GL_AMD_shader_trinary_minmax GL_ARB_shader_texture_image_samples GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_draw_buffers2 GL_ARB_transform_feedback2 GL_EXT_texture_sRGB_R8 GL_EXT_draw_instanced GL_ANGLE_texture_compression_dxt5 GL_ARB_shader_group_vote GL_ARB_occlusion_query2 GL_KHR_texture_compression_astc_ldr GL_NV_texture_env_combine4 GL_ARB_framebuffer_sRGB GL_KHR_robust_buffer_access_behavior GL_EXT_framebuffer_multisample GL_AMD_multi_draw_indirect GL_EXT_texture_snorm GL_ARB_texture_cube_map_array GL_ARB_derivative_control GL_ARB_point_parameters GL_ARB_texture_env_add GL_OES_EGL_image GL_EXT_texture_env_add GL_ARB_instanced_arrays GL_EXT_separate_specular_color GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_vertex_attrib_binding GL_ARB_texture_rectangle GL_EXT_point_parameters GL_ARB_shading_language_420pack GL_ARB_explicit_uniform_location GL_NV_light_max_exponent GL_EXT_texture_integer GL_ARB_get_program_binary GL_ARB_vertex_program GL_EXT_blend_func_separate GL_EXT_compiled_vertex_array GL_SGIS_texture_border_clamp GL_EXT_multi_draw_arrays GL_ARB_vertex_array_bgra GL_ARB_multi_bind GL_ARB_draw_elements_base_vertex GL_ARB_fragment_shader_interlock GL_ARB_seamless_cube_map GL_NV_fragment_shader_interlock GL_EXT_blend_color GL_ARB_shader_objects GL_ARB_color_buffer_float GL_ARB_sample_shading GL_ARB_half_float_vertex GL_EXT_framebuffer_sRGB GL_EXT_vertex_array_bgra GL_EXT_EGL_image_storage GL_ARB_fragment_program_shadow GL_MESA_shader_integer_functions GL_ARB_pipeline_statistics_query GL_ARB_clear_buffer_object GL_ARB_half_float_pixel GL_KHR_blend_equation_advanced GL_ARB_texture_rg GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_EXT_rescale_normal GL_ARB_sampler_objects GL_ARB_transpose_matrix GL_ARB_shader_stencil_export GL_ARB_conditional_render_inverted GL_ARB_polygon_offset_clamp GL_EXT_texture_shared_exponent GL_ARB_texture_rgb10_a2ui GL_ARB_depth_buffer_float GL_EXT_draw_range_elements GL_ARB_multi_draw_indirect GL_ARB_shader_bit_encoding GL_EXT_gpu_shader4 GL_EXT_packed_pixels GL_ARB_vertex_buffer_object GL_ARB_program_interface_query GL_EXT_stencil_wrap GL_EXT_texture3D GL_ARB_transform_feedback3 GL_EXT_subtexture GL_AMD_depth_clamp_separate GL_EXT_polygon_offset_clamp GL_EXT_texture_rectangle GL_ARB_depth_texture GL_ARB_stencil_texturing GL_EXT_texture_compression_dxt1 GL_ARB_window_pos GL_EXT_blend_subtract GL_ARB_ES2_compatibility GL_ARB_invalidate_subdata GL_ARB_texture_compression_bptc GL_MESA_window_pos GL_ARB_debug_output GL_EXT_texture_env_dot3 GL_ARB_multitexture GL_ARB_texture_env_combine GL_EXT_shader_framebuffer_fetch_non_coherent GL_ARB_shading_language_100 GL_ARB_arrays_of_arrays GL_ARB_vertex_shader GL_NV_blend_square GL_EXT_texture_edge_clamp GL_EXT_texture_array GL_ARB_transform_feedback_overflow_query GL_ARB_multisample GL_ATI_texture_float GL_ARB_framebuffer_no_attachments GL_EXT_framebuffer_multisample_blit_scaled GL_ARB_spirv_extensions GL_ARB_shader_texture_lod GL_ARB_point_sprite GL_EXT_copy_texture GL_ARB_shader_storage_buffer_object GL_EXT_blend_minmax GL_ARB_copy_buffer GL_KHR_parallel_shader_compile GL_ARB_query_buffer_object GL_ARB_provoking_vertex GL_ARB_fragment_layer_viewport GL_EXT_stencil_two_side GL_EXT_transform_feedback GL_SGIS_texture_edge_clamp GL_ATI_draw_buffers GL_IBM_rasterpos_clip GL_ARB_shader_clock GL_ARB_cull_distance GL_ARB_texture_border_clamp GL_ARB_framebuffer_object GL_ARB_conservative_depth GL_ARB_texture_compression GL_ATI_separate_stencil GL_ARB_seamless_cubemap_per_texture GL_EXT_abgr GL_ARB_indirect_parameters GL_ARB_compute_shader GL_ARB_draw_buffers GL_ARB_draw_indirect GL_NV_fog_distance GL_ARB_texture_multisample GL_S3_s3tc GL_ARB_post_depth_coverage GL_ARB_shader_atomic_counters GL_EXT_texture_shadow_lod GL_ARB_shadow GL_ARB_texture_storage GL_EXT_texture_compression_s3tc GL_EXT_EGL_sync GL_NV_conditional_render GL_ARB_texture_view GL_ARB_texture_stencil8 GL_EXT_secondary_color GL_EXT_timer_query GL_ARB_shading_language_include GL_ARB_robust_buffer_access_behavior GL_INTEL_shader_integer_functions2 GL_ARB_separate_shader_objects GL_ARB_map_buffer_alignment GL_ARB_shader_ballot GL_ARB_shader_image_load_store GL_ARB_texture_cube_map GL_EXT_texture GL_ARB_texture_float GL_ARB_depth_clamp GL_ARB_timer_query GL_ARB_robustness GL_EXT_demote_to_helper_invocation GL_ARB_transform_feedback_instanced GL_ARB_texture_mirror_clamp_to_edge GL_IBM_multimode_draw_arrays GL_ARB_ES3_compatibility GL_KHR_blend_equation_advanced_coherent GL_ARB_blend_func_extended GL_KHR_texture_compression_astc_sliced_3d GL_ANGLE_texture_compression_dxt3 GL_INGR_blend_func_separate GL_EXT_fog_coord GL_NV_texture_barrier GL_OES_read_format GL_EXT_vertex_array GL_ARB_occlusion_query GL_KHR_context_flush_control GL_ARB_gl_spirv GL_SGIS_generate_mipmap GL_ARB_parallel_shader_compile GL_ARB_fragment_program GL_EXT_shader_samples_identical GL_EXT_gpu_program_parameters GL_ARB_uniform_buffer_object GL_SGIS_texture_lod GL_ARB_fragment_coord_conventions GL_AMD_query_buffer_object GL_EXT_texture_filter_anisotropic GL_ARB_map_buffer_range GL_AMD_conservative_depth GL_EXT_texture_compression_rgtc GL_ARB_explicit_attrib_location GL_ARB_get_texture_sub_image GL_ARB_texture_env_crossbar GL_ARB_pixel_buffer_object GL_ARB_shader_atomic_counter_ops GL_EXT_shader_framebuffer_fetch GL_ARB_texture_gather GL_ARB_ES3_1_compatibility GL_AMD_draw_buffers_blend GL_ARB_internalformat_query GL_ARB_copy_image GL_ARB_texture_env_dot3 GL_ARB_shader_draw_parameters GL_ARB_shading_language_packing GL_AMD_seamless_cubemap_per_texture GL_EXT_direct_state_access GL_INTEL_performance_query GL_IBM_texture_mirrored_repeat GL_KHR_robustness GL_APPLE_packed_pixels GL_EXT_framebuffer_object GL_ARB_vertex_array_object GL_ARB_internalformat_query2 GL_NV_compute_shader_derivatives GL_NV_primitive_restart GL_ARB_buffer_storage GL_ARB_draw_instanced GL_EXT_provoking_vertex GL_AMD_texture_texture4 GL_NV_texture_rectangle GL_ARB_texture_mirrored_repeat GL_EXT_texture_sRGB GL_EXT_blend_equation_separate GL_EXT_texture_cube_map GL_INTEL_shader_atomic_float_minmax GL_ATI_texture_env_combine3
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+qrc:/qml/UpgradeButton.qml:8: TypeError: Cannot read property of null
+CSBConfUI::OnConfStatusChanged  UI_CMD_SHARE_READYQCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+Segmentation fault (core dumped)
+success to create child process,status is 35584.
+zoom exited normally.
+Something went wrong while running zoom,exit code is 139.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/99/zoom
+cmd line: 
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/99 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/99/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/99/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/99/zoom/zoom "" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.465578.0920
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 101 Network is unreachable
+Error: Send error, 101 Network is unreachable
+Error: Send error, 101 Network is unreachable
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_ATI_blend_equation_separate GL_NV_fragment_shader_interlock GL_EXT_texture_integer GL_EXT_framebuffer_sRGB GL_ARB_fragment_program GL_EXT_texture3D GL_EXT_framebuffer_object GL_MESA_shader_integer_functions GL_ARB_occlusion_query GL_SGIS_texture_lod GL_ARB_cull_distance GL_EXT_rescale_normal GL_ARB_derivative_control GL_ARB_separate_shader_objects GL_NV_texture_env_combine4 GL_EXT_timer_query GL_ARB_transform_feedback3 GL_EXT_blend_color GL_ARB_half_float_vertex GL_ARB_uniform_buffer_object GL_EXT_texture_sRGB_decode GL_SUN_multi_draw_arrays GL_NV_primitive_restart GL_ARB_texture_border_clamp GL_ATI_texture_float GL_EXT_texture_compression_dxt1 GL_EXT_texture_env_add GL_ARB_multisample GL_ARB_program_interface_query GL_ARB_clear_texture GL_EXT_transform_feedback GL_NV_texgen_reflection GL_EXT_gpu_program_parameters GL_ARB_copy_image GL_INGR_blend_func_separate GL_AMD_shader_trinary_minmax GL_ARB_conditional_render_inverted GL_ARB_texture_compression GL_ARB_sync GL_EXT_texture GL_NV_texture_barrier GL_ARB_texture_float GL_EXT_texture_shared_exponent GL_SGIS_texture_edge_clamp GL_EXT_compiled_vertex_array GL_INTEL_performance_query GL_NV_light_max_exponent GL_ARB_fragment_shader_interlock GL_ARB_map_buffer_range GL_ARB_shading_language_packing GL_ARB_fragment_shader GL_EXT_vertex_array GL_ARB_transform_feedback_instanced GL_OES_EGL_image GL_EXT_framebuffer_multisample_blit_scaled GL_ARB_provoking_vertex GL_AMD_multi_draw_indirect GL_EXT_polygon_offset_clamp GL_EXT_texture_sRGB_R8 GL_ANGLE_texture_compression_dxt5 GL_ARB_texture_query_lod GL_AMD_depth_clamp_separate GL_ARB_spirv_extensions GL_ARB_seamless_cube_map GL_ARB_transpose_matrix GL_ARB_vertex_array_object GL_EXT_draw_buffers2 GL_ARB_gl_spirv GL_ARB_point_sprite GL_EXT_stencil_two_side GL_ARB_blend_func_extended GL_ARB_compressed_texture_pixel_storage GL_EXT_texture_object GL_EXT_direct_state_access GL_EXT_EGL_sync GL_ARB_depth_clamp GL_EXT_draw_range_elements GL_KHR_robustness GL_ARB_texture_storage GL_NV_compute_shader_derivatives GL_EXT_texture_edge_clamp GL_ARB_shader_objects GL_ARB_texture_cube_map_array GL_KHR_robust_buffer_access_behavior GL_ARB_vertex_array_bgra GL_ARB_pipeline_statistics_query GL_ARB_depth_buffer_float GL_ARB_transform_feedback_overflow_query GL_ARB_explicit_uniform_location GL_ARB_robust_buffer_access_behavior GL_KHR_texture_compression_astc_sliced_3d GL_ARB_texture_env_dot3 GL_ARB_draw_buffers GL_ARB_buffer_storage GL_ARB_debug_output GL_ARB_copy_buffer GL_EXT_blend_equation_separate GL_ANGLE_texture_compression_dxt3 GL_ARB_compute_shader GL_ARB_shader_group_vote GL_EXT_packed_float GL_EXT_multi_draw_arrays GL_ARB_shader_atomic_counters GL_ARB_texture_query_levels GL_OES_read_format GL_ARB_multi_bind GL_ARB_window_pos GL_ARB_texture_multisample GL_ARB_texture_mirror_clamp_to_edge GL_EXT_pixel_buffer_object GL_ARB_framebuffer_object GL_ARB_shadow GL_EXT_secondary_color GL_EXT_texture_sRGB GL_IBM_texture_mirrored_repeat GL_ARB_draw_indirect GL_EXT_copy_texture GL_ARB_parallel_shader_compile GL_MESA_pack_invert GL_ARB_transform_feedback2 GL_ARB_indirect_parameters GL_EXT_texture_env_dot3 GL_ARB_sampler_objects GL_ARB_draw_elements_base_vertex GL_EXT_texture_shadow_lod GL_ARB_post_depth_coverage GL_ARB_pixel_buffer_object GL_ARB_stencil_texturing GL_ARB_shader_draw_parameters GL_KHR_parallel_shader_compile GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_vertex_array_bgra GL_ARB_occlusion_query2 GL_NV_depth_clamp GL_AMD_query_buffer_object GL_EXT_texture_array GL_EXT_texture_lod_bias GL_KHR_context_flush_control GL_NV_blend_square GL_EXT_texture_snorm GL_ARB_map_buffer_alignment GL_EXT_blend_minmax GL_APPLE_packed_pixels GL_ATI_separate_stencil GL_ARB_shader_atomic_counter_ops GL_ARB_texture_cube_map GL_ARB_texture_compression_bptc GL_ARB_shader_ballot GL_ARB_texture_barrier GL_ARB_texture_env_combine GL_EXT_texture_rectangle GL_ARB_ES2_compatibility GL_ARB_shader_image_load_store GL_ARB_texture_swizzle GL_ARB_shader_stencil_export GL_NV_conditional_render GL_KHR_texture_compression_astc_ldr GL_ARB_fragment_layer_viewport GL_ARB_texture_env_add GL_ARB_texture_rectangle GL_EXT_shader_framebuffer_fetch_non_coherent GL_ARB_framebuffer_no_attachments GL_SGIS_texture_border_clamp GL_ARB_internalformat_query2 GL_SGIS_generate_mipmap GL_NV_packed_depth_stencil GL_ARB_seamless_cubemap_per_texture GL_ARB_texture_rg GL_ARB_vertex_attrib_binding GL_EXT_texture_filter_anisotropic GL_ARB_shading_language_100 GL_ARB_polygon_offset_clamp GL_ARB_texture_rgb10_a2ui GL_MESA_window_pos GL_EXT_abgr GL_EXT_texture_cube_map GL_ARB_shader_texture_image_samples GL_ARB_invalidate_subdata GL_ARB_arrays_of_arrays GL_ARB_multi_draw_indirect GL_ARB_shader_texture_lod GL_ARB_texture_mirrored_repeat GL_ARB_conservative_depth GL_ARB_timer_query GL_KHR_blend_equation_advanced_coherent GL_MESA_texture_signed_rgba GL_ARB_texture_stencil8 GL_ARB_query_buffer_object GL_EXT_framebuffer_blit GL_ARB_vertex_program GL_ARB_shader_storage_buffer_object GL_EXT_packed_pixels GL_ARB_half_float_pixel GL_EXT_demote_to_helper_invocation GL_EXT_fog_coord GL_ARB_instanced_arrays GL_AMD_shader_stencil_export GL_EXT_shader_samples_identical GL_EXT_provoking_vertex GL_ARB_vertex_buffer_object GL_APPLE_object_purgeable GL_ARB_texture_env_crossbar GL_ARB_robustness GL_NV_texture_rectangle GL_3DFX_texture_compression_FXT1 GL_AMD_texture_texture4 GL_EXT_point_parameters GL_ARB_shader_bit_encoding GL_EXT_shader_framebuffer_fetch GL_ARB_color_buffer_float GL_KHR_no_error GL_ARB_clip_control GL_INTEL_shader_integer_functions2 GL_EXT_EGL_image_storage GL_ARB_texture_non_power_of_two GL_ARB_shader_precision GL_ARB_get_texture_sub_image GL_ARB_texture_gather GL_EXT_stencil_wrap GL_NV_fog_distance GL_ARB_draw_buffers_blend GL_AMD_draw_buffers_blend GL_EXT_texture_compression_s3tc GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_blend_func_separate GL_ARB_ES3_1_compatibility GL_EXT_shader_integer_mix GL_ARB_fragment_coord_conventions GL_ARB_shading_language_420pack GL_ARB_texture_filter_anisotropic GL_EXT_gpu_shader4 GL_ARB_texture_storage_multisample GL_ARB_shader_clock GL_S3_s3tc GL_IBM_multimode_draw_arrays GL_ARB_framebuffer_sRGB GL_EXT_framebuffer_multisample GL_ARB_explicit_attrib_location GL_EXT_shadow_funcs GL_ARB_fragment_program_shadow GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_texture_env_combine GL_ATI_texture_env_combine3 GL_KHR_debug GL_ARB_ES3_compatibility GL_ARB_vertex_shader GL_EXT_subtexture GL_ARB_get_program_binary GL_KHR_blend_equation_advanced GL_ARB_draw_instanced GL_EXT_separate_specular_color GL_EXT_texture_swizzle GL_EXT_draw_instanced GL_INTEL_shader_atomic_float_minmax GL_ARB_sample_shading GL_ARB_shader_image_size GL_AMD_seamless_cubemap_per_texture GL_EXT_packed_depth_stencil GL_ARB_texture_view GL_ARB_internalformat_query GL_ARB_texture_compression_rgtc GL_ARB_clear_buffer_object GL_ATI_draw_buffers GL_AMD_conservative_depth GL_ARB_multitexture GL_ARB_depth_texture GL_EXT_bgra GL_EXT_texture_compression_rgtc GL_EXT_blend_subtract GL_ARB_shading_language_include
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/99/zoom
+cmd line: 
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/99 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/99/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/99/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/99/zoom/zoom "" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.465578.0920
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_EXT_multi_draw_arrays GL_ARB_robust_buffer_access_behavior GL_ATI_blend_equation_separate GL_EXT_subtexture GL_ARB_shader_stencil_export GL_ARB_shader_group_vote GL_ARB_robustness GL_ARB_vertex_array_bgra GL_MESA_window_pos GL_ARB_multi_draw_indirect GL_ARB_arrays_of_arrays GL_ARB_sync GL_EXT_blend_func_separate GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_ARB_texture_mirrored_repeat GL_ARB_shader_clock GL_EXT_framebuffer_sRGB GL_ARB_texture_compression_rgtc GL_ARB_texture_view GL_EXT_texture_swizzle GL_INTEL_performance_query GL_NV_fog_distance GL_EXT_stencil_wrap GL_ARB_fragment_shader GL_NV_depth_clamp GL_AMD_shader_stencil_export GL_EXT_shadow_funcs GL_SGIS_texture_border_clamp GL_EXT_texture_sRGB_R8 GL_ARB_depth_clamp GL_ARB_compressed_texture_pixel_storage GL_EXT_texture_env_combine GL_EXT_draw_buffers2 GL_ARB_multitexture GL_EXT_framebuffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_query_buffer_object GL_EXT_separate_specular_color GL_ARB_shader_texture_lod GL_ARB_indirect_parameters GL_ARB_clear_buffer_object GL_ARB_timer_query GL_EXT_shader_integer_mix GL_ARB_seamless_cube_map GL_EXT_EGL_image_storage GL_EXT_packed_pixels GL_EXT_shader_samples_identical GL_ARB_half_float_pixel GL_ARB_texture_rgb10_a2ui GL_ARB_texture_cube_map_array GL_EXT_provoking_vertex GL_ARB_texture_swizzle GL_ARB_separate_shader_objects GL_ARB_compute_shader GL_EXT_timer_query GL_ARB_shader_atomic_counters GL_KHR_context_flush_control GL_ARB_map_buffer_alignment GL_ARB_conditional_render_inverted GL_ARB_map_buffer_range GL_NV_packed_depth_stencil GL_ARB_vertex_shader GL_EXT_framebuffer_multisample GL_ARB_internalformat_query GL_ARB_cull_distance GL_ARB_get_program_binary GL_EXT_texture_shadow_lod GL_OES_read_format GL_ARB_ES3_compatibility GL_ARB_vertex_program GL_EXT_texture_edge_clamp GL_AMD_seamless_cubemap_per_texture GL_EXT_framebuffer_blit GL_KHR_robust_buffer_access_behavior GL_ARB_shader_atomic_counter_ops GL_AMD_draw_buffers_blend GL_ARB_copy_buffer GL_ATI_draw_buffers GL_KHR_blend_equation_advanced GL_ARB_transpose_matrix GL_ATI_texture_env_combine3 GL_APPLE_object_purgeable GL_SGIS_generate_mipmap GL_ARB_window_pos GL_ARB_shading_language_100 GL_ARB_draw_indirect GL_EXT_gpu_program_parameters GL_ARB_texture_compression GL_ARB_transform_feedback3 GL_ARB_texture_env_combine GL_NV_texture_env_combine4 GL_AMD_texture_texture4 GL_ARB_vertex_attrib_binding GL_ARB_fragment_coord_conventions GL_EXT_texture_sRGB_decode GL_IBM_rasterpos_clip GL_ARB_framebuffer_object GL_ARB_vertex_buffer_object GL_ARB_texture_rectangle GL_ARB_parallel_shader_compile GL_EXT_blend_color GL_ARB_texture_rg GL_ARB_provoking_vertex GL_EXT_texture_shared_exponent GL_EXT_texture_array GL_ARB_shader_storage_buffer_object GL_ARB_get_texture_sub_image GL_EXT_copy_texture GL_ARB_shading_language_packing GL_ARB_pixel_buffer_object GL_EXT_direct_state_access GL_EXT_texture_rectangle GL_IBM_multimode_draw_arrays GL_ARB_texture_storage GL_AMD_query_buffer_object GL_EXT_texture_compression_s3tc GL_ARB_texture_env_add GL_SGIS_texture_edge_clamp GL_ARB_gl_spirv GL_OES_EGL_image GL_ARB_point_sprite GL_ARB_framebuffer_sRGB GL_KHR_robustness GL_EXT_transform_feedback GL_EXT_texture_object GL_ARB_program_interface_query GL_ARB_color_buffer_float GL_ARB_shader_ballot GL_ARB_invalidate_subdata GL_NV_compute_shader_derivatives GL_EXT_gpu_shader4 GL_INTEL_shader_integer_functions2 GL_ARB_conservative_depth GL_ARB_clip_control GL_APPLE_packed_pixels GL_ARB_texture_env_crossbar GL_KHR_parallel_shader_compile GL_ARB_instanced_arrays GL_EXT_bgra GL_NV_light_max_exponent GL_ARB_shader_draw_parameters GL_ARB_texture_compression_bptc GL_EXT_texture_integer GL_ARB_draw_buffers_blend GL_EXT_vertex_array GL_EXT_rescale_normal GL_ARB_shader_image_size GL_ARB_texture_query_levels GL_ARB_draw_elements_base_vertex GL_ARB_occlusion_query2 GL_ARB_texture_multisample GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_ES3_1_compatibility GL_EXT_texture_compression_dxt1 GL_ARB_texture_barrier GL_ARB_texture_non_power_of_two GL_ARB_transform_feedback_instanced GL_ARB_shading_language_420pack GL_SGIS_texture_lod GL_EXT_blend_subtract GL_NV_texture_rectangle GL_ARB_texture_mirror_clamp_to_edge GL_ARB_vertex_array_object GL_EXT_texture_sRGB GL_ATI_separate_stencil GL_NV_blend_square GL_EXT_blend_minmax GL_ARB_shader_objects GL_ARB_fragment_shader_interlock GL_ARB_depth_buffer_float GL_EXT_vertex_array_bgra GL_ARB_depth_texture GL_EXT_texture_env_add GL_ARB_spirv_extensions GL_INGR_blend_func_separate GL_ARB_draw_instanced GL_S3_s3tc GL_ARB_pipeline_statistics_query GL_ARB_texture_filter_anisotropic GL_EXT_polygon_offset_clamp GL_ARB_internalformat_query2 GL_ARB_occlusion_query GL_ARB_sample_shading GL_MESA_shader_integer_functions GL_ARB_stencil_texturing GL_EXT_texture_cube_map GL_KHR_debug GL_INTEL_shader_atomic_float_minmax GL_ARB_debug_output GL_EXT_texture GL_SUN_multi_draw_arrays GL_ARB_explicit_uniform_location GL_ARB_texture_cube_map GL_ANGLE_texture_compression_dxt3 GL_ARB_shading_language_include GL_ARB_multisample GL_ARB_seamless_cubemap_per_texture GL_EXT_demote_to_helper_invocation GL_ATI_texture_float GL_EXT_secondary_color GL_AMD_shader_trinary_minmax GL_NV_texgen_reflection GL_KHR_texture_compression_astc_sliced_3d GL_3DFX_texture_compression_FXT1 GL_ARB_texture_gather GL_ARB_polygon_offset_clamp GL_AMD_depth_clamp_separate GL_KHR_blend_equation_advanced_coherent GL_EXT_texture_compression_rgtc GL_ARB_post_depth_coverage GL_ARB_explicit_attrib_location GL_ARB_uniform_buffer_object GL_ARB_fragment_program_shadow GL_MESA_pack_invert GL_EXT_shader_framebuffer_fetch GL_ARB_texture_env_dot3 GL_EXT_blend_equation_separate GL_ANGLE_texture_compression_dxt5 GL_EXT_texture_snorm GL_ARB_fragment_program GL_ARB_texture_border_clamp GL_EXT_point_parameters GL_ARB_shader_bit_encoding GL_MESA_texture_signed_rgba GL_EXT_fog_coord GL_EXT_abgr GL_ARB_sampler_objects GL_ARB_texture_storage_multisample GL_NV_primitive_restart GL_EXT_texture_lod_bias GL_ARB_transform_feedback2 GL_IBM_texture_mirrored_repeat GL_EXT_EGL_sync GL_ARB_derivative_control GL_EXT_compiled_vertex_array GL_ARB_shader_precision GL_ARB_clear_texture GL_ARB_buffer_storage GL_EXT_stencil_two_side GL_KHR_texture_compression_astc_ldr GL_ARB_texture_float GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_packed_float GL_ARB_shader_image_load_store GL_ARB_texture_query_lod GL_ARB_texture_stencil8 GL_EXT_framebuffer_multisample_blit_scaled GL_ARB_draw_buffers GL_ARB_transform_feedback_overflow_query GL_ARB_shadow GL_ARB_multi_bind GL_ARB_ES2_compatibility GL_ARB_fragment_layer_viewport GL_NV_texture_barrier GL_AMD_conservative_depth GL_ARB_shader_texture_image_samples GL_ARB_half_float_vertex GL_KHR_no_error GL_EXT_draw_instanced GL_AMD_multi_draw_indirect GL_EXT_pixel_buffer_object GL_EXT_draw_range_elements GL_ARB_framebuffer_no_attachments GL_ARB_blend_func_extended GL_EXT_packed_depth_stencil GL_ARB_point_parameters GL_NV_fragment_shader_interlock GL_ARB_copy_image GL_NV_conditional_render GL_EXT_texture3D
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+qrc:/qml/SettingItemDelegate.qml:52: TypeError: Cannot read property 'isEnabled' of undefined
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/101/zoom
+cmd line: zoommtg://jworg.zoom.us/join?action=join&confno=86030777650&zc=0&mcv=0.92.11227.0929&confid=dXNzPThvZk1uSV9GSnFnenpZdXVoTVd1aVB1dnd1S2VGNmdCTDQxTENFWEo1M3JxVEZnTk1uLVZaaWkxZy0ta0NhSEFsMkdKdEhyVFZNUEE5eW00cFhCU3NkOUNxZy4xQ2V4MWdBMDRMM1U5cmN3JnRpZD1hYjg5MmI5MmY4OTI0YzhmOTNlN2U2YTFlYTJkM2ZiZg%3D%3D&browser=chrome&t=1602071908461
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/101 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/101/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/101/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/101/zoom/zoom "zoommtg://jworg.zoom.us/join?action=join&confno=86030777650&zc=0&mcv=0.92.11227.0929&confid=dXNzPThvZk1uSV9GSnFnenpZdXVoTVd1aVB1dnd1S2VGNmdCTDQxTENFWEo1M3JxVEZnTk1uLVZaaWkxZy0ta0NhSEFsMkdKdEhyVFZNUEE5eW00cFhCU3NkOUNxZy4xQ2V4MWdBMDRMM1U5cmN3JnRpZD1hYjg5MmI5MmY4OTI0YzhmOTNlN2U2YTFlYTJkM2ZiZg%3D%3D&browser=chrome&t=1602071908461" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.469451.0927
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_ARB_derivative_control GL_ARB_parallel_shader_compile GL_ARB_transpose_matrix GL_ARB_texture_env_add GL_ARB_program_interface_query GL_ARB_map_buffer_range GL_EXT_secondary_color GL_ARB_transform_feedback_overflow_query GL_ARB_texture_stencil8 GL_ARB_fragment_program GL_APPLE_packed_pixels GL_ANGLE_texture_compression_dxt3 GL_MESA_pack_invert GL_ARB_shader_storage_buffer_object GL_ARB_texture_compression_rgtc GL_EXT_stencil_two_side GL_ARB_conditional_render_inverted GL_ARB_shader_texture_image_samples GL_ARB_seamless_cube_map GL_ARB_texture_query_levels GL_ARB_texture_mirror_clamp_to_edge GL_EXT_stencil_wrap GL_ARB_texture_multisample GL_ARB_explicit_uniform_location GL_EXT_packed_float GL_ARB_shader_clock GL_ARB_texture_rectangle GL_NV_compute_shader_derivatives GL_ARB_texture_cube_map GL_EXT_texture_snorm GL_ARB_timer_query GL_APPLE_object_purgeable GL_ARB_compute_shader GL_ARB_ES3_1_compatibility GL_EXT_multi_draw_arrays GL_ARB_shader_bit_encoding GL_KHR_debug GL_ARB_transform_feedback2 GL_SGIS_texture_edge_clamp GL_AMD_depth_clamp_separate GL_AMD_multi_draw_indirect GL_ARB_shader_atomic_counters GL_EXT_texture_shared_exponent GL_ARB_sample_shading GL_ARB_texture_storage GL_EXT_texture_shadow_lod GL_ARB_shader_draw_parameters GL_EXT_provoking_vertex GL_ARB_vertex_attrib_binding GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_AMD_query_buffer_object GL_EXT_texture3D GL_ARB_vertex_array_bgra GL_ARB_point_sprite GL_ARB_depth_clamp GL_EXT_texture_edge_clamp GL_OES_read_format GL_EXT_texture_sRGB_decode GL_ARB_shading_language_packing GL_ARB_shader_stencil_export GL_ARB_internalformat_query2 GL_EXT_framebuffer_object GL_IBM_texture_mirrored_repeat GL_EXT_vertex_array GL_EXT_texture_filter_anisotropic GL_EXT_texture_sRGB_R8 GL_ARB_compressed_texture_pixel_storage GL_EXT_blend_func_separate GL_ARB_vertex_program GL_EXT_EGL_image_storage GL_ARB_texture_query_lod GL_ARB_seamless_cubemap_per_texture GL_ARB_clip_control GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_EXT_copy_texture GL_ARB_half_float_vertex GL_ARB_gl_spirv GL_AMD_conservative_depth GL_ARB_post_depth_coverage GL_ATI_draw_buffers GL_ARB_shader_group_vote GL_ARB_polygon_offset_clamp GL_ARB_robustness GL_NV_texture_barrier GL_MESA_texture_signed_rgba GL_KHR_texture_compression_astc_ldr GL_ARB_fragment_layer_viewport GL_ARB_multi_bind GL_ARB_arrays_of_arrays GL_SGIS_texture_lod GL_EXT_texture_swizzle GL_EXT_texture_array GL_KHR_texture_compression_astc_sliced_3d GL_EXT_polygon_offset_clamp GL_ARB_vertex_buffer_object GL_ARB_clear_texture GL_ARB_occlusion_query GL_EXT_framebuffer_sRGB GL_INGR_blend_func_separate GL_ARB_debug_output GL_ARB_draw_buffers GL_KHR_robust_buffer_access_behavior GL_EXT_subtexture GL_KHR_context_flush_control GL_EXT_texture_lod_bias GL_EXT_shader_framebuffer_fetch GL_ARB_multi_draw_indirect GL_ARB_spirv_extensions GL_ARB_texture_env_combine GL_EXT_texture_compression_rgtc GL_AMD_shader_stencil_export GL_ARB_vertex_shader GL_EXT_draw_buffers2 GL_ARB_texture_compression GL_EXT_direct_state_access GL_ARB_texture_compression_bptc GL_ARB_texture_env_dot3 GL_ATI_separate_stencil GL_ARB_shader_image_load_store GL_ARB_texture_rgb10_a2ui GL_AMD_shader_trinary_minmax GL_ARB_invalidate_subdata GL_NV_conditional_render GL_ARB_map_buffer_alignment GL_EXT_draw_range_elements GL_ARB_framebuffer_sRGB GL_ARB_depth_texture GL_EXT_gpu_program_parameters GL_ARB_uniform_buffer_object GL_EXT_compiled_vertex_array GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_provoking_vertex GL_ARB_shading_language_include GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_EGL_sync GL_ARB_draw_indirect GL_EXT_shadow_funcs GL_ARB_texture_gather GL_EXT_bgra GL_ARB_fragment_program_shadow GL_ARB_texture_env_crossbar GL_EXT_fog_coord GL_NV_light_max_exponent GL_ARB_framebuffer_object GL_ARB_stencil_texturing GL_ARB_pixel_buffer_object GL_ARB_shader_precision GL_ARB_conservative_depth GL_EXT_packed_depth_stencil GL_ARB_buffer_storage GL_ARB_point_parameters GL_NV_fragment_shader_interlock GL_ARB_sync GL_ARB_texture_non_power_of_two GL_MESA_window_pos GL_ARB_copy_buffer GL_ARB_texture_float GL_ARB_shadow GL_EXT_rescale_normal GL_EXT_texture_env_combine GL_3DFX_texture_compression_FXT1 GL_ARB_draw_instanced GL_ARB_pipeline_statistics_query GL_INTEL_shader_atomic_float_minmax GL_MESA_shader_integer_functions GL_NV_texgen_reflection GL_ARB_ES2_compatibility GL_NV_depth_clamp GL_ARB_vertex_array_object GL_ARB_shader_ballot GL_OES_EGL_image GL_EXT_blend_equation_separate GL_INTEL_shader_integer_functions2 GL_ARB_texture_cube_map_array GL_EXT_framebuffer_blit GL_ARB_multisample GL_ANGLE_texture_compression_dxt5 GL_ARB_get_texture_sub_image GL_ARB_fragment_coord_conventions GL_EXT_vertex_array_bgra GL_ATI_blend_equation_separate GL_KHR_robustness GL_KHR_parallel_shader_compile GL_ARB_texture_storage_multisample GL_ARB_blend_func_extended GL_ARB_shader_atomic_counter_ops GL_IBM_multimode_draw_arrays GL_ARB_cull_distance GL_EXT_blend_subtract GL_EXT_draw_instanced GL_SUN_multi_draw_arrays GL_EXT_transform_feedback GL_KHR_no_error GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_abgr GL_IBM_rasterpos_clip GL_EXT_texture GL_ARB_query_buffer_object GL_EXT_blend_color GL_EXT_gpu_shader4 GL_ARB_texture_rg GL_AMD_texture_texture4 GL_ARB_draw_buffers_blend GL_ARB_texture_filter_anisotropic GL_EXT_point_parameters GL_EXT_separate_specular_color GL_ARB_robust_buffer_access_behavior GL_ARB_draw_elements_base_vertex GL_ARB_texture_view GL_NV_texture_env_combine4 GL_AMD_draw_buffers_blend GL_SGIS_generate_mipmap GL_EXT_framebuffer_multisample_blit_scaled GL_ARB_get_program_binary GL_ARB_sampler_objects GL_ARB_clear_buffer_object GL_ARB_framebuffer_no_attachments GL_ARB_texture_border_clamp GL_ATI_texture_float GL_SGIS_texture_border_clamp GL_ARB_shader_image_size GL_EXT_demote_to_helper_invocation GL_EXT_packed_pixels GL_ARB_texture_swizzle GL_EXT_framebuffer_multisample GL_AMD_seamless_cubemap_per_texture GL_ARB_window_pos GL_NV_fog_distance GL_ARB_fragment_shader GL_ARB_internalformat_query GL_ARB_shader_objects GL_EXT_texture_cube_map GL_EXT_texture_integer GL_EXT_texture_object GL_ARB_depth_buffer_float GL_S3_s3tc GL_NV_texture_rectangle GL_EXT_texture_env_add GL_NV_blend_square GL_ARB_multitexture GL_KHR_blend_equation_advanced_coherent GL_EXT_pixel_buffer_object GL_ATI_texture_env_combine3 GL_EXT_blend_minmax GL_ARB_half_float_pixel GL_NV_packed_depth_stencil GL_ARB_transform_feedback_instanced GL_NV_primitive_restart GL_ARB_texture_barrier GL_ARB_texture_mirrored_repeat GL_INTEL_performance_query GL_ARB_shading_language_100 GL_EXT_shader_integer_mix GL_ARB_ES3_compatibility GL_EXT_texture_env_dot3 GL_ARB_fragment_shader_interlock GL_ARB_color_buffer_float GL_ARB_shader_texture_lod GL_ARB_explicit_attrib_location GL_ARB_shading_language_420pack GL_EXT_texture_compression_dxt1 GL_EXT_shader_samples_identical GL_EXT_texture_compression_s3tc GL_ARB_copy_image GL_KHR_blend_equation_advanced GL_ARB_separate_shader_objects GL_EXT_timer_query GL_ARB_transform_feedback3 GL_ARB_occlusion_query2
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+CSBConfUI::OnConfStatusChanged  UI_CMD_SHARE_READYQCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/101/zoom
+cmd line: zoommtg://jworg.zoom.us/join?action=join&confno=81523588999&zc=0&mcv=0.92.11227.0929&confid=dXNzPThWWm1McXpWSElJdlZpWXF1VXZram82aG11aUN0UDNqZ0FlOU51eXluUmUwcmdiTGczd2NYc1p6RWdtTUkySlM3a1ZqR2puMHRETE05QlJXZ0RmX3NRUUl0NTguY0xzdzEzM3ZnQ3lQT3pGMCZ0aWQ9YWI4OTJiOTJmODkyNGM4ZjkzZTdlNmExZWEyZDNmYmY%3D&browser=chrome&t=1602269432060
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/101 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/101/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/101/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/101/zoom/zoom "zoommtg://jworg.zoom.us/join?action=join&confno=81523588999&zc=0&mcv=0.92.11227.0929&confid=dXNzPThWWm1McXpWSElJdlZpWXF1VXZram82aG11aUN0UDNqZ0FlOU51eXluUmUwcmdiTGczd2NYc1p6RWdtTUkySlM3a1ZqR2puMHRETE05QlJXZ0RmX3NRUUl0NTguY0xzdzEzM3ZnQ3lQT3pGMCZ0aWQ9YWI4OTJiOTJmODkyNGM4ZjkzZTdlNmExZWEyZDNmYmY%3D&browser=chrome&t=1602269432060" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.469451.0927
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_ARB_map_buffer_range GL_OES_read_format GL_ARB_fragment_program_shadow GL_ARB_clear_texture GL_ARB_texture_mirror_clamp_to_edge GL_ARB_transform_feedback_overflow_query GL_EXT_texture_sRGB_decode GL_ARB_shading_language_100 GL_ARB_texture_storage GL_ARB_stencil_texturing GL_EXT_secondary_color GL_ARB_debug_output GL_ARB_texture_mirrored_repeat GL_ARB_internalformat_query2 GL_ARB_robust_buffer_access_behavior GL_NV_texture_barrier GL_EXT_blend_subtract GL_EXT_vertex_array_bgra GL_ARB_point_sprite GL_ARB_texture_float GL_EXT_texture_env_combine GL_OES_EGL_image GL_EXT_stencil_wrap GL_ARB_arrays_of_arrays GL_ARB_texture_cube_map_array GL_ARB_ES3_1_compatibility GL_INTEL_shader_atomic_float_minmax GL_ARB_depth_buffer_float GL_EXT_texture GL_EXT_shadow_funcs GL_ARB_half_float_vertex GL_EXT_framebuffer_object GL_ARB_conservative_depth GL_ARB_texture_env_crossbar GL_ARB_shader_atomic_counters GL_ANGLE_texture_compression_dxt5 GL_AMD_depth_clamp_separate GL_ARB_vertex_attrib_binding GL_ARB_texture_cube_map GL_KHR_debug GL_SGIS_texture_border_clamp GL_MESA_window_pos GL_ARB_multitexture GL_INTEL_shader_integer_functions2 GL_ARB_vertex_shader GL_NV_primitive_restart GL_EXT_texture_env_dot3 GL_ARB_sync GL_KHR_no_error GL_EXT_shader_integer_mix GL_EXT_packed_pixels GL_ATI_draw_buffers GL_NV_fog_distance GL_ARB_texture_view GL_ARB_seamless_cubemap_per_texture GL_ARB_polygon_offset_clamp GL_SGIS_texture_lod GL_ARB_texture_multisample GL_EXT_EGL_image_storage GL_EXT_texture_filter_anisotropic GL_EXT_EGL_sync GL_NV_depth_clamp GL_ARB_shading_language_packing GL_AMD_conservative_depth GL_SUN_multi_draw_arrays GL_ARB_shader_image_load_store GL_EXT_texture_swizzle GL_EXT_subtexture GL_EXT_shader_framebuffer_fetch GL_EXT_blend_equation_separate GL_ARB_clear_buffer_object GL_ARB_copy_buffer GL_ARB_shader_texture_image_samples GL_EXT_texture_edge_clamp GL_ARB_ES2_compatibility GL_ARB_program_interface_query GL_ARB_fragment_layer_viewport GL_ARB_timer_query GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_fog_coord GL_EXT_framebuffer_multisample GL_ATI_blend_equation_separate GL_ARB_occlusion_query2 GL_ARB_copy_image GL_NV_texture_rectangle GL_ARB_multi_bind GL_ARB_instanced_arrays GL_EXT_provoking_vertex GL_ARB_draw_buffers_blend GL_EXT_copy_texture GL_EXT_blend_func_separate GL_ARB_sampler_objects GL_EXT_texture_sRGB GL_ATI_texture_float GL_ARB_buffer_storage GL_INGR_blend_func_separate GL_ARB_texture_non_power_of_two GL_ARB_provoking_vertex GL_KHR_robustness GL_IBM_rasterpos_clip GL_EXT_texture_object GL_ARB_shading_language_420pack GL_ARB_vertex_array_bgra GL_IBM_multimode_draw_arrays GL_AMD_multi_draw_indirect GL_EXT_shader_samples_identical GL_ARB_shader_draw_parameters GL_ARB_texture_compression GL_INTEL_performance_query GL_ARB_texture_query_levels GL_ARB_multisample GL_ARB_pipeline_statistics_query GL_EXT_separate_specular_color GL_ARB_shader_image_size GL_ARB_cull_distance GL_ARB_transform_feedback3 GL_EXT_vertex_array GL_ARB_shading_language_include GL_EXT_texture3D GL_ARB_sample_shading GL_EXT_abgr GL_MESA_texture_signed_rgba GL_MESA_pack_invert GL_EXT_texture_shadow_lod GL_ARB_blend_func_extended GL_ARB_depth_texture GL_ARB_map_buffer_alignment GL_ARB_internalformat_query GL_EXT_multi_draw_arrays GL_EXT_texture_rectangle GL_ARB_vertex_buffer_object GL_NV_conditional_render GL_ARB_pixel_buffer_object GL_EXT_gpu_shader4 GL_ARB_fragment_shader_interlock GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_texture_env_add GL_EXT_polygon_offset_clamp GL_EXT_texture_shared_exponent GL_ARB_draw_elements_base_vertex GL_ATI_texture_env_combine3 GL_ARB_draw_instanced GL_ARB_compressed_texture_pixel_storage GL_ARB_shader_objects GL_EXT_texture_sRGB_R8 GL_EXT_texture_cube_map GL_ARB_seamless_cube_map GL_ARB_shader_bit_encoding GL_ARB_spirv_extensions GL_ARB_fragment_coord_conventions GL_MESA_shader_integer_functions GL_ARB_texture_compression_bptc GL_ARB_uniform_buffer_object GL_ARB_shadow GL_ARB_vertex_program GL_ANGLE_texture_compression_dxt3 GL_ARB_shader_atomic_counter_ops GL_ARB_shader_precision GL_EXT_texture_lod_bias GL_ARB_explicit_uniform_location GL_AMD_query_buffer_object GL_EXT_draw_buffers2 GL_ARB_point_parameters GL_EXT_texture_compression_rgtc GL_KHR_texture_compression_astc_ldr GL_EXT_compiled_vertex_array GL_ARB_texture_rectangle GL_ARB_shader_ballot GL_EXT_stencil_two_side GL_EXT_point_parameters GL_ARB_texture_stencil8 GL_APPLE_packed_pixels GL_ARB_shader_storage_buffer_object GL_NV_texgen_reflection GL_ARB_vertex_array_object GL_EXT_framebuffer_sRGB GL_EXT_texture_array GL_EXT_packed_float GL_EXT_draw_instanced GL_ATI_separate_stencil GL_ARB_get_program_binary GL_ARB_texture_compression_rgtc GL_NV_fragment_shader_interlock GL_AMD_shader_trinary_minmax GL_ARB_texture_env_add GL_EXT_texture_compression_dxt1 GL_ARB_texture_filter_anisotropic GL_AMD_seamless_cubemap_per_texture GL_ARB_indirect_parameters GL_ARB_draw_indirect GL_EXT_packed_depth_stencil GL_ARB_half_float_pixel GL_EXT_bgra GL_ARB_window_pos GL_EXT_direct_state_access GL_EXT_timer_query GL_ARB_transform_feedback2 GL_KHR_robust_buffer_access_behavior GL_AMD_draw_buffers_blend GL_ARB_robustness GL_ARB_texture_rg GL_NV_compute_shader_derivatives GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_gl_spirv GL_S3_s3tc GL_KHR_blend_equation_advanced_coherent GL_IBM_texture_mirrored_repeat GL_ARB_parallel_shader_compile GL_ARB_derivative_control GL_EXT_texture_compression_s3tc GL_NV_blend_square GL_EXT_demote_to_helper_invocation GL_ARB_get_texture_sub_image GL_KHR_parallel_shader_compile GL_EXT_blend_color GL_ARB_post_depth_coverage GL_EXT_transform_feedback GL_ARB_texture_env_dot3 GL_ARB_clip_control GL_ARB_framebuffer_object GL_ARB_shader_texture_lod GL_ARB_texture_env_combine GL_KHR_texture_compression_astc_sliced_3d GL_SGIS_generate_mipmap GL_EXT_framebuffer_blit GL_ARB_conditional_render_inverted GL_ARB_transform_feedback_instanced GL_ARB_compute_shader GL_3DFX_texture_compression_FXT1 GL_EXT_gpu_program_parameters GL_EXT_rescale_normal GL_KHR_blend_equation_advanced GL_AMD_shader_stencil_export GL_ARB_separate_shader_objects GL_ARB_framebuffer_no_attachments GL_EXT_texture_snorm GL_EXT_blend_minmax GL_EXT_pixel_buffer_object GL_NV_light_max_exponent GL_ARB_color_buffer_float GL_EXT_texture_integer GL_KHR_context_flush_control GL_ARB_texture_barrier GL_ARB_explicit_attrib_location GL_ARB_texture_rgb10_a2ui GL_ARB_framebuffer_sRGB GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_texture_storage_multisample GL_SGIS_texture_edge_clamp GL_ARB_occlusion_query GL_ARB_multi_draw_indirect GL_ARB_shader_group_vote GL_ARB_depth_clamp GL_EXT_framebuffer_multisample_blit_scaled GL_ARB_texture_gather GL_ARB_fragment_shader GL_ARB_transpose_matrix GL_NV_texture_env_combine4 GL_ARB_shader_stencil_export GL_ARB_ES3_compatibility GL_ARB_invalidate_subdata GL_ARB_shader_clock GL_AMD_texture_texture4 GL_APPLE_object_purgeable GL_EXT_draw_range_elements GL_ARB_query_buffer_object GL_ARB_texture_border_clamp GL_NV_packed_depth_stencil GL_ARB_texture_swizzle GL_ARB_texture_query_lod
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+CSBConfUI::OnConfStatusChanged  UI_CMD_SHARE_READYqrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/101/zoom
+cmd line: zoommtg://jworg.zoom.us/join?action=join&confno=82298281901&zc=0&mcv=0.92.11227.0929&confid=dXNzPS0wanZpZllQa2d5S0FZelBseElENUs1S2ZoWnBKNmdvTUVpeDRVLXk5c2lQd1JkNXFCU1Nhc1E2SlB5VzVpQXIzR3A2d21lWXotbUFwNXUzR2JtRmhvM3BNUS5Ya2N3Z2dSYURiLWNyREJXJnRpZD1hYjg5MmI5MmY4OTI0YzhmOTNlN2U2YTFlYTJkM2ZiZg%3D%3D&browser=chrome&t=1602416949226
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/101 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/101/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/101/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/101/zoom/zoom "zoommtg://jworg.zoom.us/join?action=join&confno=82298281901&zc=0&mcv=0.92.11227.0929&confid=dXNzPS0wanZpZllQa2d5S0FZelBseElENUs1S2ZoWnBKNmdvTUVpeDRVLXk5c2lQd1JkNXFCU1Nhc1E2SlB5VzVpQXIzR3A2d21lWXotbUFwNXUzR2JtRmhvM3BNUS5Ya2N3Z2dSYURiLWNyREJXJnRpZD1hYjg5MmI5MmY4OTI0YzhmOTNlN2U2YTFlYTJkM2ZiZg%3D%3D&browser=chrome&t=1602416949226" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.469451.0927
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_ARB_compute_shader GL_MESA_texture_signed_rgba GL_ARB_texture_rg GL_ARB_occlusion_query2 GL_ARB_multisample GL_EXT_pixel_buffer_object GL_ARB_occlusion_query GL_ARB_cull_distance GL_EXT_draw_range_elements GL_ARB_framebuffer_no_attachments GL_EXT_texture_compression_rgtc GL_ARB_internalformat_query GL_ARB_ES2_compatibility GL_ARB_half_float_pixel GL_ARB_invalidate_subdata GL_ARB_texture_env_dot3 GL_ARB_derivative_control GL_ATI_blend_equation_separate GL_MESA_window_pos GL_ARB_multitexture GL_EXT_rescale_normal GL_ARB_shader_clock GL_EXT_blend_minmax GL_EXT_texture_edge_clamp GL_ARB_ES3_1_compatibility GL_EXT_texture_env_add GL_EXT_packed_pixels GL_IBM_multimode_draw_arrays GL_EXT_EGL_sync GL_ARB_shader_precision GL_ARB_program_interface_query GL_ARB_shader_image_load_store GL_ARB_clear_texture GL_ARB_robustness GL_EXT_draw_instanced GL_ARB_texture_float GL_ATI_texture_env_combine3 GL_EXT_texture_env_combine GL_NV_conditional_render GL_EXT_vertex_array GL_NV_fog_distance GL_ARB_shadow GL_ARB_draw_instanced GL_EXT_texture_shadow_lod GL_EXT_gpu_program_parameters GL_ARB_spirv_extensions GL_SUN_multi_draw_arrays GL_EXT_gpu_shader4 GL_ARB_window_pos GL_EXT_secondary_color GL_ARB_map_buffer_alignment GL_ARB_copy_buffer GL_EXT_texture_sRGB_R8 GL_ARB_texture_cube_map_array GL_ARB_gl_spirv GL_INTEL_performance_query GL_ARB_debug_output GL_ARB_vertex_array_bgra GL_EXT_framebuffer_object GL_EXT_direct_state_access GL_ARB_shader_atomic_counters GL_SGIS_generate_mipmap GL_S3_s3tc GL_ARB_pixel_buffer_object GL_ARB_shader_texture_lod GL_EXT_provoking_vertex GL_EXT_bgra GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_fog_coord GL_ARB_half_float_vertex GL_ARB_sampler_objects GL_ARB_texture_non_power_of_two GL_ARB_timer_query GL_ARB_shader_objects GL_ARB_texture_rectangle GL_ARB_separate_shader_objects GL_NV_depth_clamp GL_ARB_explicit_uniform_location GL_AMD_shader_stencil_export GL_ARB_indirect_parameters GL_ARB_point_sprite GL_ARB_shading_language_packing GL_APPLE_packed_pixels GL_EXT_point_parameters GL_EXT_packed_float GL_ATI_separate_stencil GL_SGIS_texture_edge_clamp GL_EXT_shader_integer_mix GL_EXT_texture_env_dot3 GL_ARB_transpose_matrix GL_KHR_texture_compression_astc_ldr GL_EXT_blend_func_separate GL_EXT_shader_samples_identical GL_ARB_seamless_cube_map GL_ARB_get_texture_sub_image GL_ARB_internalformat_query2 GL_AMD_conservative_depth GL_AMD_seamless_cubemap_per_texture GL_NV_texture_barrier GL_ARB_texture_mirrored_repeat GL_ARB_vertex_array_object GL_EXT_demote_to_helper_invocation GL_ARB_multi_draw_indirect GL_NV_blend_square GL_EXT_polygon_offset_clamp GL_ARB_texture_env_add GL_EXT_texture_compression_s3tc GL_EXT_vertex_array_bgra GL_ARB_texture_env_combine GL_ARB_polygon_offset_clamp GL_EXT_framebuffer_multisample GL_EXT_texture_object GL_EXT_texture_compression_dxt1 GL_ARB_texture_storage_multisample GL_EXT_texture_sRGB GL_ARB_shader_texture_image_samples GL_KHR_context_flush_control GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_point_parameters GL_ANGLE_texture_compression_dxt5 GL_EXT_texture_shared_exponent GL_ARB_transform_feedback_instanced GL_ARB_conditional_render_inverted GL_EXT_texture3D GL_ARB_texture_border_clamp GL_EXT_copy_texture GL_MESA_shader_integer_functions GL_ARB_draw_buffers GL_EXT_texture GL_ARB_get_program_binary GL_EXT_packed_depth_stencil GL_ARB_shader_atomic_counter_ops GL_EXT_blend_equation_separate GL_ARB_depth_buffer_float GL_NV_texgen_reflection GL_ARB_texture_query_levels GL_ARB_fragment_shader GL_AMD_depth_clamp_separate GL_ARB_texture_compression_rgtc GL_ARB_vertex_shader GL_ARB_texture_stencil8 GL_ARB_shading_language_420pack GL_NV_texture_rectangle GL_ARB_framebuffer_sRGB GL_ARB_copy_image GL_NV_fragment_shader_interlock GL_ARB_fragment_layer_viewport GL_INTEL_shader_integer_functions2 GL_ARB_texture_compression GL_ARB_vertex_buffer_object GL_ARB_fragment_program_shadow GL_ARB_parallel_shader_compile GL_SGIS_texture_lod GL_ARB_texture_env_crossbar GL_EXT_blend_subtract GL_ARB_shader_group_vote GL_EXT_framebuffer_multisample_blit_scaled GL_AMD_query_buffer_object GL_ARB_pipeline_statistics_query GL_ARB_framebuffer_object GL_ARB_seamless_cubemap_per_texture GL_ARB_provoking_vertex GL_EXT_blend_color GL_ARB_sync GL_ARB_vertex_attrib_binding GL_EXT_stencil_wrap GL_OES_read_format GL_ARB_robust_buffer_access_behavior GL_ARB_arrays_of_arrays GL_ARB_shader_bit_encoding GL_ARB_shader_stencil_export GL_NV_compute_shader_derivatives GL_ARB_shading_language_100 GL_KHR_blend_equation_advanced_coherent GL_ARB_query_buffer_object GL_APPLE_object_purgeable GL_EXT_texture_array GL_SGIS_texture_border_clamp GL_ARB_compressed_texture_pixel_storage GL_EXT_shadow_funcs GL_ARB_texture_gather GL_EXT_stencil_two_side GL_ARB_draw_indirect GL_EXT_shader_framebuffer_fetch GL_AMD_multi_draw_indirect GL_EXT_draw_buffers2 GL_ARB_fragment_shader_interlock GL_NV_packed_depth_stencil GL_EXT_texture_swizzle GL_ARB_clear_buffer_object GL_ARB_texture_filter_anisotropic GL_ARB_transform_feedback_overflow_query GL_EXT_texture_sRGB_decode GL_EXT_abgr GL_EXT_texture_snorm GL_INGR_blend_func_separate GL_EXT_separate_specular_color GL_ARB_map_buffer_range GL_ARB_texture_storage GL_NV_primitive_restart GL_ARB_shading_language_include GL_EXT_texture_filter_anisotropic GL_ARB_vertex_program GL_IBM_texture_mirrored_repeat GL_ARB_texture_rgb10_a2ui GL_ARB_instanced_arrays GL_ARB_texture_view GL_MESA_pack_invert GL_ARB_texture_query_lod GL_ATI_draw_buffers GL_ARB_texture_swizzle GL_ARB_transform_feedback3 GL_ARB_color_buffer_float GL_EXT_texture_integer GL_ARB_shader_image_size GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ATI_texture_float GL_KHR_robust_buffer_access_behavior GL_ARB_multi_bind GL_EXT_texture_rectangle GL_ARB_draw_elements_base_vertex GL_KHR_blend_equation_advanced GL_ARB_sample_shading GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_framebuffer_blit GL_ARB_explicit_attrib_location GL_IBM_rasterpos_clip GL_ARB_texture_barrier GL_ARB_post_depth_coverage GL_KHR_no_error GL_ARB_conservative_depth GL_AMD_draw_buffers_blend GL_ARB_fragment_coord_conventions GL_EXT_transform_feedback GL_ARB_texture_compression_bptc GL_ARB_fragment_program GL_3DFX_texture_compression_FXT1 GL_ARB_texture_mirror_clamp_to_edge GL_EXT_EGL_image_storage GL_ARB_shader_storage_buffer_object GL_KHR_robustness GL_OES_EGL_image GL_ARB_texture_cube_map GL_EXT_subtexture GL_ARB_texture_multisample GL_ARB_shader_draw_parameters GL_EXT_compiled_vertex_array GL_EXT_framebuffer_sRGB GL_EXT_multi_draw_arrays GL_EXT_timer_query GL_ARB_draw_buffers_blend GL_ARB_uniform_buffer_object GL_AMD_texture_texture4 GL_INTEL_shader_atomic_float_minmax GL_ARB_depth_texture GL_ARB_clip_control GL_ARB_shader_ballot GL_ARB_stencil_texturing GL_ARB_transform_feedback2 GL_EXT_texture_lod_bias GL_ARB_ES3_compatibility GL_AMD_shader_trinary_minmax GL_ANGLE_texture_compression_dxt3 GL_NV_texture_env_combine4 GL_ARB_depth_clamp GL_KHR_parallel_shader_compile GL_NV_light_max_exponent GL_EXT_texture_cube_map GL_KHR_debug GL_KHR_texture_compression_astc_sliced_3d
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+CSBConfUI::OnConfStatusChanged  UI_CMD_SHARE_READYqrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:444: TypeError: Cannot read property 'audioStatus' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:444: TypeError: Cannot read property 'audioStatus' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/101/zoom
+cmd line: zoommtg://jworg.zoom.us/join?action=join&confno=85700921674&zc=0&mcv=0.92.11227.0929&confid=dXNzPXJkV0Q5VlpQbTgxQzdZNkRLVG9rVGpweGF6VGJyc2VmNHVPN2NlRGNYdUdpMlBxcDBzc25rcGo1RzY1aDlJd2pkQ3VWYjB1Q0FDeTZBSU1QQVN3UngtRWZJYU0uYjRCV1pWVTRPRFROeFFRZCZ0aWQ9YWI4OTJiOTJmODkyNGM4ZjkzZTdlNmExZWEyZDNmYmY%3D&browser=chrome&t=1602503333463
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/101 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/101/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/101/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/101/zoom/zoom "zoommtg://jworg.zoom.us/join?action=join&confno=85700921674&zc=0&mcv=0.92.11227.0929&confid=dXNzPXJkV0Q5VlpQbTgxQzdZNkRLVG9rVGpweGF6VGJyc2VmNHVPN2NlRGNYdUdpMlBxcDBzc25rcGo1RzY1aDlJd2pkQ3VWYjB1Q0FDeTZBSU1QQVN3UngtRWZJYU0uYjRCV1pWVTRPRFROeFFRZCZ0aWQ9YWI4OTJiOTJmODkyNGM4ZjkzZTdlNmExZWEyZDNmYmY%3D&browser=chrome&t=1602503333463" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.469451.0927
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_ARB_texture_border_clamp GL_EXT_provoking_vertex GL_ARB_query_buffer_object GL_EXT_demote_to_helper_invocation GL_ARB_texture_stencil8 GL_ARB_shader_image_load_store GL_ARB_ES3_1_compatibility GL_EXT_multi_draw_arrays GL_ARB_shading_language_100 GL_EXT_texture_filter_anisotropic GL_ARB_framebuffer_sRGB GL_ATI_blend_equation_separate GL_IBM_multimode_draw_arrays GL_EXT_texture_edge_clamp GL_KHR_texture_compression_astc_ldr GL_ARB_shader_ballot GL_ARB_depth_texture GL_INTEL_shader_integer_functions2 GL_ARB_parallel_shader_compile GL_EXT_subtexture GL_ARB_debug_output GL_ARB_texture_compression_bptc GL_ARB_vertex_shader GL_AMD_draw_buffers_blend GL_ARB_texture_non_power_of_two GL_ARB_fragment_program GL_ARB_multitexture GL_ARB_texture_cube_map GL_ARB_texture_float GL_NV_packed_depth_stencil GL_ARB_seamless_cubemap_per_texture GL_ARB_sample_shading GL_ARB_map_buffer_alignment GL_EXT_texture3D GL_ARB_sampler_objects GL_EXT_blend_minmax GL_OES_read_format GL_APPLE_packed_pixels GL_INTEL_shader_atomic_float_minmax GL_ARB_transform_feedback2 GL_ARB_invalidate_subdata GL_EXT_texture_env_dot3 GL_ARB_clip_control GL_MESA_texture_signed_rgba GL_ARB_transform_feedback_overflow_query GL_EXT_blend_func_separate GL_EXT_rescale_normal GL_ARB_occlusion_query2 GL_ARB_transform_feedback3 GL_ARB_spirv_extensions GL_ARB_texture_storage GL_ARB_texture_cube_map_array GL_EXT_gpu_program_parameters GL_ARB_shader_atomic_counters GL_ARB_window_pos GL_ARB_explicit_uniform_location GL_ARB_texture_swizzle GL_KHR_debug GL_ARB_shader_draw_parameters GL_SGIS_texture_edge_clamp GL_AMD_conservative_depth GL_EXT_texture_sRGB_decode GL_ARB_depth_clamp GL_EXT_texture_lod_bias GL_ARB_conditional_render_inverted GL_EXT_shader_framebuffer_fetch_non_coherent GL_S3_s3tc GL_EXT_shader_samples_identical GL_EXT_fog_coord GL_KHR_blend_equation_advanced GL_ATI_draw_buffers GL_ARB_get_program_binary GL_ARB_framebuffer_object GL_ARB_polygon_offset_clamp GL_ARB_uniform_buffer_object GL_ARB_timer_query GL_ARB_multisample GL_AMD_query_buffer_object GL_NV_texture_env_combine4 GL_KHR_texture_compression_astc_sliced_3d GL_ARB_half_float_pixel GL_EXT_separate_specular_color GL_AMD_shader_stencil_export GL_ARB_post_depth_coverage GL_ARB_texture_rectangle GL_EXT_texture_integer GL_ARB_half_float_vertex GL_ARB_texture_compression GL_EXT_texture_compression_s3tc GL_ARB_vertex_array_object GL_NV_depth_clamp GL_AMD_texture_texture4 GL_EXT_texture_compression_dxt1 GL_ARB_sync GL_EXT_texture_array GL_ARB_texture_mirrored_repeat GL_NV_light_max_exponent GL_EXT_texture_cube_map GL_ARB_draw_indirect GL_ARB_shader_texture_lod GL_ARB_vertex_program GL_ARB_shader_group_vote GL_ARB_draw_instanced GL_ARB_texture_compression_rgtc GL_AMD_multi_draw_indirect GL_ARB_texture_env_add GL_ARB_shader_atomic_counter_ops GL_ARB_compute_shader GL_EXT_EGL_sync GL_EXT_texture_object GL_ARB_shader_bit_encoding GL_3DFX_texture_compression_FXT1 GL_EXT_secondary_color GL_EXT_texture GL_EXT_texture_sRGB GL_ARB_depth_buffer_float GL_ARB_instanced_arrays GL_ARB_texture_env_crossbar GL_EXT_gpu_shader4 GL_ARB_draw_elements_base_vertex GL_ARB_derivative_control GL_EXT_packed_pixels GL_ARB_texture_rg GL_MESA_shader_integer_functions GL_OES_EGL_image GL_ARB_copy_image GL_ARB_transform_feedback_instanced GL_KHR_blend_equation_advanced_coherent GL_ARB_vertex_buffer_object GL_ARB_vertex_attrib_binding GL_EXT_texture_swizzle GL_EXT_blend_color GL_ARB_program_interface_query GL_ATI_texture_float GL_ANGLE_texture_compression_dxt5 GL_INTEL_performance_query GL_SGIS_generate_mipmap GL_EXT_framebuffer_multisample GL_ARB_multi_draw_indirect GL_ARB_shadow GL_ANGLE_texture_compression_dxt3 GL_ARB_fragment_coord_conventions GL_ARB_color_buffer_float GL_AMD_shader_trinary_minmax GL_EXT_framebuffer_blit GL_ARB_cull_distance GL_EXT_timer_query GL_IBM_rasterpos_clip GL_ARB_ES3_compatibility GL_ARB_shader_storage_buffer_object GL_APPLE_object_purgeable GL_ARB_internalformat_query GL_EXT_blend_subtract GL_NV_texture_rectangle GL_AMD_depth_clamp_separate GL_ARB_map_buffer_range GL_ARB_explicit_attrib_location GL_KHR_no_error GL_ARB_copy_buffer GL_NV_fog_distance GL_EXT_vertex_array_bgra GL_ARB_ES2_compatibility GL_ARB_clear_buffer_object GL_EXT_transform_feedback GL_EXT_stencil_wrap GL_NV_blend_square GL_EXT_packed_depth_stencil GL_ARB_separate_shader_objects GL_EXT_packed_float GL_EXT_compiled_vertex_array GL_ARB_robust_buffer_access_behavior GL_ARB_gl_spirv GL_KHR_robust_buffer_access_behavior GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_EXT_texture_sRGB_R8 GL_SUN_multi_draw_arrays GL_ARB_shading_language_420pack GL_EXT_EGL_image_storage GL_ARB_shader_texture_image_samples GL_EXT_shader_framebuffer_fetch GL_NV_primitive_restart GL_SGIS_texture_border_clamp GL_EXT_draw_buffers2 GL_EXT_texture_rectangle GL_ARB_arrays_of_arrays GL_ARB_texture_storage_multisample GL_NV_texgen_reflection GL_ARB_indirect_parameters GL_ARB_shader_precision GL_ARB_shading_language_include GL_EXT_shadow_funcs GL_ARB_transpose_matrix GL_ARB_blend_func_extended GL_EXT_copy_texture GL_ARB_fragment_layer_viewport GL_ARB_texture_rgb10_a2ui GL_ATI_texture_env_combine3 GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_EXT_draw_instanced GL_EXT_direct_state_access GL_ARB_pipeline_statistics_query GL_ARB_fragment_shader_interlock GL_ARB_conservative_depth GL_KHR_robustness GL_ARB_get_texture_sub_image GL_ARB_multi_bind GL_EXT_texture_shadow_lod GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_abgr GL_KHR_parallel_shader_compile GL_ARB_occlusion_query GL_ARB_shader_clock GL_ARB_vertex_array_bgra GL_ARB_fragment_program_shadow GL_ARB_clear_texture GL_ARB_framebuffer_no_attachments GL_INGR_blend_func_separate GL_SGIS_texture_lod GL_EXT_blend_equation_separate GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_ATI_separate_stencil GL_ARB_shader_objects GL_AMD_seamless_cubemap_per_texture GL_ARB_shader_stencil_export GL_ARB_point_parameters GL_MESA_pack_invert GL_ARB_point_sprite GL_EXT_framebuffer_multisample_blit_scaled GL_ARB_shader_image_size GL_ARB_seamless_cube_map GL_EXT_texture_snorm GL_EXT_framebuffer_sRGB GL_EXT_vertex_array GL_KHR_context_flush_control GL_ARB_shading_language_packing GL_ARB_stencil_texturing GL_NV_texture_barrier GL_EXT_draw_range_elements GL_EXT_texture_env_combine GL_IBM_texture_mirrored_repeat GL_ARB_compressed_texture_pixel_storage GL_NV_fragment_shader_interlock GL_NV_conditional_render GL_ARB_fragment_shader GL_MESA_window_pos GL_ARB_robustness GL_ARB_buffer_storage GL_ARB_draw_buffers GL_EXT_framebuffer_object GL_ARB_draw_buffers_blend GL_ARB_texture_barrier GL_ARB_internalformat_query2 GL_EXT_stencil_two_side GL_ARB_texture_query_levels GL_EXT_texture_compression_rgtc GL_EXT_texture_env_add GL_ARB_texture_query_lod GL_ARB_pixel_buffer_object GL_ARB_texture_filter_anisotropic GL_EXT_texture_shared_exponent GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_provoking_vertex GL_EXT_pixel_buffer_object GL_NV_compute_shader_derivatives GL_EXT_shader_integer_mix GL_EXT_bgra GL_ARB_texture_view
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+CSBConfUI::OnConfStatusChanged  UI_CMD_SHARE_READYqrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:444: TypeError: Cannot read property 'audioStatus' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:444: TypeError: Cannot read property 'audioStatus' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
+ZoomLauncher started.
+Zoom path is: /snap/zoom-client/101/zoom
+cmd line: zoommtg://jworg.zoom.us/join?action=join&confno=82796225760&zc=0&mcv=0.92.11227.0929&confid=dXNzPURkbFRzbHNFWHc5cWdJNVNsVnMyb0JXLWJHQ3NQRy1mMXhkNFFKY051c2I5STBrdW5oSHlucDlFR2JfNDdBNDJDMDhHMTBSODBBOHBVNUNpcUl6SFAxcXJEZy5BbmhQc3B3d1BPbEMwLWl5JnRpZD1hYjg5MmI5MmY4OTI0YzhmOTNlN2U2YTFlYTJkM2ZiZg%3D%3D&browser=chrome&t=1602675941312
+CreateReportChannel bp_server_fd=4
+$HOME = /home/vftsiqueira/snap/zoom-client/101 
+export SSB_HOME=/home/vftsiqueira/snap/zoom-client/101/.zoom; export QSG_INFO=1; export LXXXXXXXXY_PATH=/snap/zoom-client/101/zoom; export BREAKPAD_CLIENT_FD=3; /snap/zoom-client/101/zoom/zoom "zoommtg://jworg.zoom.us/join?action=join&confno=82796225760&zc=0&mcv=0.92.11227.0929&confid=dXNzPURkbFRzbHNFWHc5cWdJNVNsVnMyb0JXLWJHQ3NQRy1mMXhkNFFKY051c2I5STBrdW5oSHlucDlFR2JfNDdBNDJDMDhHMTBSODBBOHBVNUNpcUl6SFAxcXJEZy5BbmhQc3B3d1BPbEMwLWl5JnRpZD1hYjg5MmI5MmY4OTI0YzhmOTNlN2U2YTFlYTJkM2ZiZg%3D%3D&browser=chrome&t=1602675941312" 
+No PulseAudio daemon running, or not running as session daemon.
+zoom started.
+[CZPClientLogMgr::LogClientEnvironment] [MacAddr: 1C:BF:C0:FF:86:B5][client: Linux][OS: Ubuntu Core 18][Hardware: CPU Core:2 Frenquency:2 G Memory size:3833MB CPU Brand:Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz GPU Brand:][Req ID: ]
+Linux Client Version is 5.3.469451.0927
+QSG_RENDER_LOOP is 
+XDG_CURRENT_DESKTOP = ubuntu:GNOME;   GDMSESSION = ubuntu
+Graphics Card Info:: 
+Zoom package arch is 64bit, runing OS arch is x86_64
+Client: Breakpad is using Client-Server Mode! client fd = 3
+AppIconMgr::systemDesktopName log Desktop Name: ubuntu 
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+Error: Send error, 22 Invalid argument
+qt.scenegraph.general: QSG: basic render loop
+qt.scenegraph.general: Using sg animation driver
+Fontconfig warning: "/etc/fonts/fonts.conf", line 5: unknown element "its:rules"
+Fontconfig warning: "/etc/fonts/fonts.conf", line 6: unknown element "its:translateRule"
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'translate'
+Fontconfig error: "/etc/fonts/fonts.conf", line 6: invalid attribute 'selector'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'xmlns:its'
+Fontconfig error: "/etc/fonts/fonts.conf", line 7: invalid attribute 'version'
+Fontconfig warning: "/etc/fonts/fonts.conf", line 9: unknown element "description"
+qt.svg: link image0 hasn't been detected!
+qt.svg: :/images/wechat.svg:10:6: Could not resolve property: pattern0
+qt.scenegraph.general: texture atlas dimensions: 1024x512
+qt.scenegraph.general: R/G/B/A Buffers:    8 8 8 8
+qt.scenegraph.general: Depth Buffer:       24
+qt.scenegraph.general: Stencil Buffer:     8
+qt.scenegraph.general: Samples:            -1
+qt.scenegraph.general: GL_VENDOR:          Intel Open Source Technology Center
+qt.scenegraph.general: GL_RENDERER:        Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)
+qt.scenegraph.general: GL_VERSION:         3.0 Mesa 20.0.8
+qt.scenegraph.general: GL_EXTENSIONS:      GL_KHR_robust_buffer_access_behavior GL_ARB_texture_cube_map GL_ARB_framebuffer_object GL_EXT_texture_env_combine GL_ARB_shader_objects GL_EXT_texture_compression_dxt1 GL_EXT_texture_cube_map GL_EXT_multi_draw_arrays GL_ARB_ES3_1_compatibility GL_ARB_half_float_vertex GL_ARB_texture_mirrored_repeat GL_ARB_draw_buffers_blend GL_EXT_blend_func_separate GL_ARB_timer_query GL_ARB_texture_border_clamp GL_ARB_occlusion_query GL_NV_texture_rectangle GL_EXT_transform_feedback GL_EXT_texture_sRGB_decode GL_ARB_fragment_program GL_ARB_seamless_cubemap_per_texture GL_EXT_draw_instanced GL_KHR_blend_equation_advanced_coherent GL_SGIS_texture_border_clamp GL_ARB_sample_shading GL_ARB_texture_compression_rgtc GL_ARB_shading_language_100 GL_ARB_shader_clock GL_ARB_draw_buffers GL_AMD_depth_clamp_separate GL_KHR_debug GL_ARB_shader_stencil_export GL_NV_packed_depth_stencil GL_EXT_texture_rectangle GL_ARB_uniform_buffer_object GL_ARB_shader_atomic_counters GL_ARB_cull_distance GL_ARB_ES3_compatibility GL_ANGLE_texture_compression_dxt5 GL_ARB_spirv_extensions GL_S3_s3tc GL_EXT_shader_integer_mix GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_draw_indirect GL_EXT_vertex_array GL_EXT_texture_edge_clamp GL_ARB_texture_query_levels GL_ARB_indirect_parameters GL_ANGLE_texture_compression_dxt3 GL_ARB_get_texture_sub_image GL_EXT_texture_env_add GL_EXT_copy_texture GL_IBM_multimode_draw_arrays GL_MESA_pack_invert GL_ARB_internalformat_query2 GL_ARB_shader_storage_buffer_object GL_ARB_texture_cube_map_array GL_ARB_map_buffer_range GL_NV_depth_clamp GL_ARB_polygon_offset_clamp GL_ARB_texture_rg GL_NV_light_max_exponent GL_ARB_instanced_arrays GL_ARB_query_buffer_object GL_ARB_derivative_control GL_ARB_texture_view GL_EXT_texture_compression_s3tc GL_ARB_vertex_array_object GL_EXT_texture3D GL_AMD_query_buffer_object GL_ARB_color_buffer_float GL_ARB_texture_multisample GL_EXT_gpu_shader4 GL_INGR_blend_func_separate GL_KHR_no_error GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch GL_KHR_blend_equation_advanced GL_ARB_copy_image GL_ARB_half_float_pixel GL_ARB_texture_stencil8 GL_ARB_pixel_buffer_object GL_APPLE_object_purgeable GL_NV_primitive_restart GL_ARB_transform_feedback_overflow_query GL_NV_fragment_shader_interlock GL_EXT_packed_pixels GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_conditional_render_inverted GL_EXT_direct_state_access GL_ARB_texture_env_crossbar GL_NV_conditional_render GL_ARB_texture_compression_bptc GL_KHR_texture_compression_astc_sliced_3d GL_ARB_robustness GL_ARB_shading_language_include GL_ARB_multisample GL_EXT_texture_swizzle GL_ARB_texture_barrier GL_ARB_compute_shader GL_ARB_gl_spirv GL_EXT_demote_to_helper_invocation GL_EXT_blend_minmax GL_EXT_framebuffer_multisample GL_ARB_texture_swizzle GL_EXT_texture_shadow_lod GL_EXT_texture_object GL_KHR_parallel_shader_compile GL_ARB_seamless_cube_map GL_ARB_internalformat_query GL_ARB_depth_texture GL_ARB_window_pos GL_EXT_shader_samples_identical GL_MESA_texture_signed_rgba GL_AMD_multi_draw_indirect GL_ARB_shader_draw_parameters GL_OES_read_format GL_ATI_draw_buffers GL_EXT_EGL_sync GL_ARB_arrays_of_arrays GL_INTEL_shader_integer_functions2 GL_ARB_texture_float GL_ARB_get_program_binary GL_KHR_texture_compression_astc_ldr GL_EXT_stencil_wrap GL_EXT_texture_sRGB_R8 GL_ATI_separate_stencil GL_EXT_framebuffer_multisample_blit_scaled GL_ARB_explicit_attrib_location GL_ARB_invalidate_subdata GL_ARB_vertex_attrib_binding GL_EXT_texture_lod_bias GL_EXT_point_parameters GL_ARB_shader_image_size GL_ARB_transpose_matrix GL_ARB_transform_feedback2 GL_MESA_shader_integer_functions GL_ATI_texture_float GL_EXT_texture_env_dot3 GL_INTEL_performance_query GL_ARB_post_depth_coverage GL_APPLE_packed_pixels GL_EXT_packed_depth_stencil GL_ARB_explicit_uniform_location GL_ARB_transform_feedback3 GL_EXT_gpu_program_parameters GL_EXT_texture_compression_rgtc GL_OES_EGL_image GL_NV_blend_square GL_ARB_clear_texture GL_ARB_vertex_buffer_object GL_SGIS_generate_mipmap GL_ARB_shader_group_vote GL_ARB_shader_texture_image_samples GL_ARB_vertex_array_bgra GL_ARB_debug_output GL_ARB_occlusion_query2 GL_ARB_texture_rectangle GL_INTEL_shader_atomic_float_minmax GL_ARB_texture_env_add GL_ARB_shader_image_load_store GL_NV_texture_env_combine4 GL_EXT_texture_sRGB GL_ARB_shading_language_packing GL_ARB_shader_atomic_counter_ops GL_ARB_shader_ballot GL_ARB_robust_buffer_access_behavior GL_ARB_conservative_depth GL_EXT_fog_coord GL_ARB_clear_buffer_object GL_EXT_pixel_buffer_object GL_EXT_separate_specular_color GL_ARB_buffer_storage GL_EXT_blend_subtract GL_ARB_shader_bit_encoding GL_ARB_multitexture GL_AMD_shader_trinary_minmax GL_ARB_texture_query_lod GL_ARB_parallel_shader_compile GL_EXT_texture_array GL_ARB_program_interface_query GL_EXT_draw_range_elements GL_EXT_texture_filter_anisotropic GL_ARB_framebuffer_sRGB GL_EXT_texture_integer GL_KHR_robustness GL_ARB_texture_env_combine GL_EXT_subtexture GL_ARB_texture_rgb10_a2ui GL_ARB_ES2_compatibility GL_ARB_depth_clamp GL_EXT_packed_float GL_EXT_timer_query GL_ARB_texture_non_power_of_two GL_AMD_shader_stencil_export GL_EXT_draw_buffers2 GL_NV_compute_shader_derivatives GL_EXT_secondary_color GL_SUN_multi_draw_arrays GL_ARB_fragment_shader GL_ATI_texture_env_combine3 GL_EXT_EGL_image_storage GL_AMD_seamless_cubemap_per_texture GL_ARB_texture_mirror_clamp_to_edge GL_ARB_framebuffer_no_attachments GL_ARB_fragment_shader_interlock GL_EXT_shadow_funcs GL_ARB_map_buffer_alignment GL_ARB_texture_env_dot3 GL_ARB_multi_draw_indirect GL_KHR_context_flush_control GL_NV_texgen_reflection GL_ARB_point_sprite GL_NV_fog_distance GL_EXT_polygon_offset_clamp GL_IBM_rasterpos_clip GL_EXT_framebuffer_blit GL_ARB_clip_control GL_EXT_framebuffer_object GL_ARB_sync GL_EXT_framebuffer_sRGB GL_ARB_separate_shader_objects GL_SGIS_texture_lod GL_ARB_transform_feedback_instanced GL_ARB_compressed_texture_pixel_storage GL_ATI_blend_equation_separate GL_EXT_compiled_vertex_array GL_3DFX_texture_compression_FXT1 GL_EXT_vertex_array_bgra GL_ARB_texture_filter_anisotropic GL_ARB_blend_func_extended GL_ARB_stencil_texturing GL_ARB_sampler_objects GL_ARB_texture_gather GL_SGIS_texture_edge_clamp GL_MESA_window_pos GL_EXT_texture_shared_exponent GL_EXT_shader_framebuffer_fetch_non_coherent GL_ARB_provoking_vertex GL_ARB_shading_language_420pack GL_ARB_vertex_program GL_EXT_abgr GL_AMD_conservative_depth GL_EXT_blend_equation_separate GL_ARB_draw_instanced GL_ARB_shadow GL_ARB_fragment_layer_viewport GL_AMD_draw_buffers_blend GL_ARB_shader_precision GL_NV_texture_barrier GL_EXT_blend_color GL_ARB_vertex_shader GL_ARB_pipeline_statistics_query GL_ARB_multi_bind GL_ARB_texture_compression GL_EXT_rescale_normal GL_ARB_fragment_coord_conventions GL_ARB_draw_elements_base_vertex GL_EXT_stencil_two_side GL_ARB_texture_storage_multisample GL_ARB_texture_storage GL_ARB_shader_texture_lod GL_AMD_texture_texture4 GL_ARB_fragment_program_shadow GL_ARB_copy_buffer GL_EXT_texture_snorm GL_EXT_texture GL_IBM_texture_mirrored_repeat GL_ARB_depth_buffer_float GL_ARB_point_parameters GL_EXT_bgra
+qt.scenegraph.general: Max Texture Size:  16384
+qt.scenegraph.general: Debug context:     false
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+CSBConfUI::OnConfStatusChanged  UI_CMD_SHARE_READYqrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:444: TypeError: Cannot read property 'audioStatus' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:444: TypeError: Cannot read property 'audioStatus' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:18: TypeError: Cannot read property 'itemType' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:433: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:301: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:259: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:177: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:89: TypeError: Cannot read property 'displayName' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:69: TypeError: Cannot read property 'avatarText' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:68: TypeError: Cannot read property 'avatarColor' of undefined
+qrc:/qml/AttendeeItemDelegate.qml:16: TypeError: Cannot read property 'isGuest' of undefined
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+QCoreApplication::postEvent: Unexpected null receiver
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+WorkerBase::loop() normal exit, fds[0].revents & POLLIN = true
+No PulseAudio daemon running, or not running as session daemon.
+success to create child process,status is 0.
+zoom exited normally.
+run zoom successfully,exit code is 0.
+ZoomLauncher exit.
